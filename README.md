@@ -14,7 +14,7 @@
 
 # DAT17I - SWC II SPRING 2018
 
-<table>
+<table width="400">
   <thead>
   <tr>
       <th>Week</th>
