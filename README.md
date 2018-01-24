@@ -8,8 +8,6 @@
         margin-bottom: 10px;
     }
     a {color:#0c6654}
-    table {background-color: #999}
-  
   </style>
 </head>
 <img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" />
@@ -185,7 +183,7 @@
       <td>31/10 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="">#21</a></td>
-      <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalisering</a><!-- erstanings til senere -->  </td>
+      <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalisering</a></td>
   </tr>
   <tr>
       <td>16</td>
