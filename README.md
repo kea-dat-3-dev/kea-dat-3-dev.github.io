@@ -7,7 +7,7 @@
         margin-right: 20px; 
         margin-bottom: 10px;
     }
-    a {text-decoration: undelined; color:#0c6654}
+    a {color:#0c6654}
   
   </style>
 </head>
