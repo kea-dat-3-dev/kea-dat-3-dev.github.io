@@ -16,6 +16,7 @@
 # DAT17I - SWC II SPRING 2018
 
 <table>
+  <thead>
   <tr>
       <th>Week</th>
       <th>Date</th>
@@ -23,6 +24,8 @@
       <th>Day</th>
       <th>Topic</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
       <td>5</td>
       <td>1/2 - 2018</td>
@@ -30,6 +33,7 @@
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=01&type=&language=">#1</a></td>
       <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a></td>
   </tr>
+  
   <tr>
       <td>6</td>
       <td>6/2 - 2018</td>
@@ -44,18 +48,18 @@
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=03&type=&language=">#3</a></td>
       <td><a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
   </tr>
+  
   <tr>
       <td>7</td>
       <td>13/2 - 2018</td>
       <td>8:30 - 11:45</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
-  </tr>
-  
+  </tr>  
   <tr>
       <td>7</td>
       <td>15/2 - 2018</td>
-      <td>8:30 - 11:45</td>
+      <td>12:30 - 15:00</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
   </tr>
@@ -67,7 +71,6 @@
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=05&type=&language=">#5</a></td>
       <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
   </tr>
-
   <tr>
       <td>8</td>
       <td>20/2 - 2018</td>
@@ -281,6 +284,7 @@
       <td></td>
       <td>Eksamensopgave aflevering på WiseFlow</td>
   </tr>
+  </tbody>
 </table>
             
 \* Changes to this plan can occour. <br>
