@@ -7,6 +7,7 @@
         margin-right: 20px; 
         margin-bottom: 10px;
     }
+    a {color : #666;}
   
   </style>
 </head>
