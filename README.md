@@ -51,14 +51,14 @@
       <td><a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
   </tr>
   
-  <tr style="background-color:  #f9d2d2">
+  <tr style="background-color: #c1f0c1">
       <td>7</td>
       <td>13/2 - 2018</td>
       <td>8:30 - 11:45</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css (Claus on holliday)</a></td>
   </tr>  
-  <tr style="background-color:  #f9d2d2">
+  <tr style="background-color:  #c1f0c1">
       <td>7</td>
       <td>15/2 - 2018</td>
       <td>12:30 - 15:00</td> 
