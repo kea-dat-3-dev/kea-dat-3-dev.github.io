@@ -1,19 +1,18 @@
 <head>
   <style> 
     h1:first-of-type {display: none;}
-    #image {
-        float: left;
-        width: 65px;
-        margin-right: 20px; 
-        margin-bottom: 10px;
-    }
     a {color:#0c6654}
-    
+    .header {
+      display:flex;
+    }
   </style>
 </head>
-<img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" />
 
-# DAT17I - SWC II SPRING 2018
+<div class="header">
+  <div><img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" /></div>
+  <div># DAT17I - SWC II SPRING 2018</div>
+  <div></div>
+</div>
 
 <table>
   <thead>
