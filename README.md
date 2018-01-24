@@ -151,89 +151,98 @@
  
   <tr>
       <td>14</td>
-      <td>10/10 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>3/4 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=15&type=&language=">#15</a></td>
       <td><b><a href="https://github.com/dat17i/15_agenda/blob/master/README.md">Mandatory Assignment presentation</a></b></td>
   </tr>
   <tr>
       <td>14</td>
-      <td>12/10 - 2018</td>
-      <td>08:30 - 11:45</td>
+      <td>5/4 - 2018</td>
+      <td>12:30 - 15:00</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=16&type=&language=">#16</a></td>
       <td><a href="https://github.com/dat17i/16_agenda/blob/master/README.md">Databases and Unique Values and Primary Keys</a></td>
   </tr>
   
   <tr>
       <td>15</td>
-      <td>17/10 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>10/4 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=17&type=&language=">#17</a></td>
       <td><a href="https://github.com/dat17i/17_agenda/blob/master/README.md">Databases and relations between tables</a></td>
   </tr>
   <tr>
       <td>15</td>
-      <td>19/10 - 2018</td>
-      <td>08:30 - 11:45</td>
+      <td>12/4 - 2018</td>
+      <td>12:30 - 15:00</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=18&type=&language=">#18</a></td>
       <td><a href="https://github.com/dat17i/18_agenda/blob/master/README.md">Databases, Many to many relations and JOINS</a></td>
   </tr>
   
   <tr>
       <td>16</td>
-      <td>24/10 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>17/4 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="">#19</a></td>
       <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md"></a></td>
   </tr>
   <tr>
       <td>16</td>
-      <td>26/10 - 2018</td>
-      <td>08:30 - 11:45</td>
+      <td>19/4 - 2018</td>
+      <td>12:30 - 15:00</td>
       <td><a href="">#20</a></td>
       <td><a href="https://github.com/dat17i/20_agenda/blob/master/README.md">Normalisering af databasens tabeller</a></td>
   </tr>
   
   <tr>
       <td>17</td>
-      <td>31/10 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>24/4 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="">#21</a></td>
       <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalisering</a></td>
   </tr>
   <tr>
       <td>17</td>
-      <td>02/10 - 2018</td>
-      <td>08:30 - 11:45</td>
+      <td>26/4 - 2018</td>
+      <td>12:30 - 15:00</td>
       <td><a href="">#22</a></td>
       <td><a href="https://github.com/dat17i/22_agenda/blob/master/README.md">Java Collection Framework</a></td>
   </tr>
   
   <tr>
       <td>18</td>
-      <td>07/11 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>1/5 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="">#23</a></td>
       <td><a href="https://github.com/dat17i/23_agenda/blob/master/README.md">Linked List & Java Collection Framework</a></td>
   </tr>
   <tr>
       <td>18</td>
-      <td>09/11 - 2018</td>
-      <td>08:30 - 11:45</td>
+      <td>3/5 - 2018</td>
+      <td>12:30 - 15:00</td>
       <td><a href="">#24</a></td>
       <td><a href="https://github.com/dat17i/24_agenda/blob/master/README.md">Thyme Leaf opfølgning</a></td>
   </tr>
   
   <tr>
       <td>19</td>
-      <td>14/11 - 2018</td>
-      <td>12:30 - 15:00</td>
+      <td>8/5 - 2018</td>
+      <td>08:30 - 11:45</td>
       <td><a href="">#25</a></td>
       <td><a href="https://github.com/dat17i/25_agenda/blob/master/README.md">Repetition</a></td>
   </tr>
+
   <tr>
       <td>19</td>
-      <td>16/11 - 2018</td>
+      <td>10/5 - 2018</td>
+      <td></td>
+      <td></td>
+      <td>Holliday - Ascension Day</td>
+  </tr>
+  
+  <tr>
+      <td>20</td>
+      <td>15/5 - 2018</td>
       <td>08:30 - 11:45</td>
       <td><a href="">#26</a></td>
       <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">Exam Project Start</a></td>
@@ -241,48 +250,41 @@
   
   <tr>
       <td>20</td>
-      <td>21/11 - 2018</td>
+      <td>17/5 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="">#27</a></td>
       <td><a href="https://github.com/dat17i/27_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   </tr>
-  <tr>
-      <td>20</td>
-      <td>23/11 - 2018</td>
-      <td>08:30 - 11:45</td>
-      <td><a href="">#28</a></td>
-      <td><a href="https://github.com/dat17i/28_agenda/blob/master/README.md">Eksamenprojekt</a></td>
-  </tr>
   
   <tr>
       <td>21</td>
-      <td>28/11 - 2018</td>
+      <td>22/5 - 2018</td>
+      <td>08:30 - 11:45</td>
+      <td><a href="">#28</a></td>
+      <td><a href="https://github.com/dat17i/28_agenda/blob/master/README.md">Eksamenprojekt</a></td>
+  </tr> 
+  <tr>
+      <td>21</td>
+      <td>24/5 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="">#29</a></td>
       <td><a href="https://github.com/dat17i/29_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   </tr>
+  
   <tr>
-      <td>21</td>
-      <td>30/11 - 2018</td>
+      <td>22</td>
+      <td>29/5 - 2018</td>
       <td>08:30 - 11:45</td>
       <td><a href="">#30</a></td>
       <td><a href="https://github.com/dat17i/30_agenda/blob/master/README.md">Eksamenprojekt</a></td>
-  </tr>
-  
-   <tr>
+  </tr> 
+  <tr>
       <td>22</td>
-      <td>5/12 - 2018</td>
+      <td>31/5 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="">#31</a></td>
       <td><a href="https://github.com/dat17i/31_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   </tr>   
-  <tr>
-      <td>22</td>
-      <td>5/12 - 2018</td>
-      <td>12:30 - 15:00</td>
-      <td><a href="">#31</a></td>
-      <td><a href="https://github.com/dat17i/31_agenda/blob/master/README.md">Eksamenprojekt</a></td>
-  </tr>
   
   <tr>
       <td>22</td>
@@ -291,6 +293,7 @@
       <td></td>
       <td>Exam Project hand in WiseFlow</td>
   </tr>
+  
   </tbody>
 </table>
             
