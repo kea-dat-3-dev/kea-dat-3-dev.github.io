@@ -10,7 +10,7 @@
 
 <div class="header">
   <div><img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" /></div>
-  <div># DAT17I - SWC II SPRING 2018</div>
+  <div> # DAT17I - SWC II SPRING 2018 </div>
   <div></div>
 </div>
 
