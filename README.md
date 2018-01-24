@@ -8,13 +8,14 @@
         margin-bottom: 10px;
     }
     a {color:#0c6654}
+    thead {background-color: #222; color: #fff}
   </style>
 </head>
 <img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" />
 
 # DAT17I - SWC II SPRING 2018
 
-<table width="400">
+<table>
   <thead>
   <tr>
       <th>Week</th>
