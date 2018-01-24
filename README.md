@@ -182,7 +182,7 @@
       <td>24/10 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="">#19</a></td>
-      <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md">Singleton Pattern - limiting database connections</a></td>
+      <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md"></a></td>
   </tr>
   <tr>
       <td>16</td>
@@ -234,7 +234,7 @@
       <td>16/11 - 2018</td>
       <td>08:30 - 11:45</td>
       <td><a href="">#26</a></td>
-      <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">START PÅ PROJEKTPERIODEN</a></td>
+      <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">Exam Project Start</a></td>
   </tr>
   
   <tr>
