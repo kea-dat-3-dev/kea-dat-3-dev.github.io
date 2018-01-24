@@ -51,9 +51,17 @@
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
   </tr>
-
+  
   <tr>
       <td>7</td>
+      <td>15/2 - 2018</td>
+      <td>8:30 - 11:45</td>
+      <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
+      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
+  </tr>
+
+  <tr>
+      <td>8</td>
       <td>15/2 - 2018</td>
       <td>12:30 - 15:00</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=05&type=&language=">#5</a></td>
