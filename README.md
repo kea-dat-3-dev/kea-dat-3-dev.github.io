@@ -328,6 +328,8 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 12, date : '22/3', time : '12:30 - 15:30'}, 
 
         // week 13 Easter
+        {week : 13, date : '27/3', time : '08:30 - 11:45'},
+        {week : 13, date : '29/3', time : '12:30 - 15:30'},
 
         {week : 14, date : '3/4', time : '08:30 - 11:45'},
         {week : 14, date : '5/4', time : '12:30 - 15:30'},
