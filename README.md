@@ -1,16 +1,8 @@
 <head>
   <style> 
     h1:first-of-type {display: none;}
-    /*a {color:#0c6654}*/
-
-   /* #image {
-        float: left;
-        width: 65px;
-        margin-right: 20px; 
-        margin-bottom: 10px;
-    } */
-    
     #github {text-align: right; margin:-50px 0 50px 0}
+    .markdown-body table {display: content}
   </style>
 </head>
 
