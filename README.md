@@ -303,7 +303,25 @@
 __Teacher: Claus Bové (clbo@kea.dk)__
 
 
-<script> var dates = [{week : 5, date : '5/2 - 2016'}, {week : 6, date : '12/2 - 2016'}, {week : 7, date : '15/2 - 2016'}, {week : 7, date : '18/2 - 2016'}, {week : 8, date : '26/2 - 2016'}, {week : 9, date : '4/3 - 2016'}, {week : 10, date : '11/3 - 2016'}, {week : 11, date : '18/3 - 2016'}, {week : 12, date : '25/3 - 2016'}, {week : 13, date : '1/4 - 2016'}, {week : 14, date : '8/4 - 2016'}, {week : 15, date : '15/4 - 2016'}, {week : 16, date : '22/4 - 2016'}, {week : 17, date : '29/4 - 2016'}, {week : 18, date : '6/5 - 2016'}, {week : 19, date : '13/5 - 2016'},{week : 20, date : '20/5 - 2016'}]; 
+<script> var dates = [
+        {week : 5, date : '5/2'}, 
+        {week : 6, date : '12/2'}, 
+        {week : 7, date : '15/2'}, 
+        {week : 7, date : '18/2'}, 
+        {week : 8, date : '26/2'}, 
+        {week : 9, date : '4/3'}, 
+        {week : 10, date : '11/3'}, 
+        {week : 11, date : '18/3'}, 
+        {week : 12, date : '25/3'}, 
+        {week : 13, date : '1/4'}, 
+        {week : 14, date : '8/4'}, 
+        {week : 15, date : '15/4'}, 
+        {week : 16, date : '22/4'}, 
+        {week : 17, date : '29/4'}, 
+        {week : 18, date : '6/5'}, 
+        {week : 19, date : '13/5'},
+        {week : 20, date : '20/5'}
+    ]; 
   
  var table = document.getElementById("tbl"); 
  alert(table); 
