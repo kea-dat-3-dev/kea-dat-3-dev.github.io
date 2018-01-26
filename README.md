@@ -323,8 +323,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 20, date : '20/5'}
     ]; 
   
- var table = document.getElementById("tbl"); 
- alert(table); 
+ var table = document.getElementById("tbl");  
  var rows = table.getElementsByTagName("tr");
  
  for(i = 1; i < rows.length; i++){
