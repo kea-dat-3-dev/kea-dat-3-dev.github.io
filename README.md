@@ -9,13 +9,14 @@
         margin-right: 20px; 
         margin-bottom: 10px;
     }
+    #github {text-align: right}
   </style>
 </head>
 
 
 <!-- <img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" /> -->
 
-# DAT17I - SWC II SPRING 2018 
+# DAT17I - SWC II SPRING 2018 <div id="github"><a href="https://github.com/dat17i/">GitHub</a></div>
 
 <table id="tbl">
   <thead>
