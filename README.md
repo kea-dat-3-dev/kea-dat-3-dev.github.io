@@ -308,12 +308,9 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  var table = document.getElementById("tbl"); 
  alert(table); 
  var rows = table.getElementsByTagName("tr");
- var holl = table.getElementById("holliday");
+ var holl = document.getElementById("holliday");
  
  for(i = 1; i < rows.length; i++){
-    if(holl === 'holliday'){
-      i++;
-    }
       var tds = rows[i].getElementsByTagName("td"); 
       tds[0].innerHTML= dates[i-1].week; 
       tds[1].innerHTML= dates[i-1].date + ' - 2018'; 
