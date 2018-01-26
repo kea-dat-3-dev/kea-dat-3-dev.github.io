@@ -308,7 +308,6 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  var table = document.getElementById("tbl"); 
  alert(table); 
  var rows = table.getElementsByTagName("tr");
- var holl = document.getElementById("holliday");
  
  for(i = 1; i < rows.length; i++){
       var tds = rows[i].getElementsByTagName("td"); 
