@@ -346,8 +346,9 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 18, date : '1/5', time : '08:30 - 11:45'},
         {week : 18, date : '3/5', time : '12:30 - 15:30'},
 
-        {week : 19, date : '8/5', time : '08:30 - 11:45'},
-        {week : 19, date : '10/5', time : ''},
+        // 8/5 kristihimmelfartsdag
+        {week : 19, date : '8/5', time : ''},
+        {week : 19, date : '10/5', time : '12:30 - 15:30'},
 
         {week : 20, date : '15/5', time : '08:30 - 11:45'},
         {week : 20, date : '17/5', time : '12:30 - 15:30'},
