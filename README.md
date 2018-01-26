@@ -141,7 +141,7 @@
       <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
   </tr>
   
-  <tr style="background-color:  #f9d2d2" id="holliday">
+  <tr style="background-color:  #f9d2d2" class="holliday">
       <td>13</td>
       <td></td>
       <td></td>
