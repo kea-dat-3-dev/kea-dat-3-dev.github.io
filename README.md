@@ -142,7 +142,7 @@
   </tr>
   
   <tr style="background-color:  #f9d2d2" class="holliday">
-      <td></td>
+      <td>13</td>
       <td></td>
       <td></td>
       <td></td>
@@ -372,8 +372,9 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  for(i = 1; i < rows.length; i++){
 
      if(rows[i].getAttribute("class") === 'holliday'){
-        var tds = rows[i].getElementsByTagName("td"); 
-        tds[0].innerHTML= dates[i-1].week;
+        // var tds = rows[i].getElementsByTagName("td"); 
+        // tds[0].innerHTML= dates[i-1].week;
+        i++;
         i++;
      }
 
