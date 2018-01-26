@@ -327,6 +327,11 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  var rows = table.getElementsByTagName("tr");
  
  for(i = 1; i < rows.length; i++){
+
+alert(rows[i].getElementByTagName("td").getAttribute("class"));
+     if(rows[i].getElementByTagName("td").getAttribute("class")){
+
+     }
       var tds = rows[i].getElementsByTagName("td"); 
       tds[0].innerHTML= dates[i-1].week; 
       tds[1].innerHTML= dates[i-1].date + ' - 2018'; 
