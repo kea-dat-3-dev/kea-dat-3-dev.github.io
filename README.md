@@ -30,7 +30,7 @@
   <tbody>
   <tr>
       <td>5</td>
-      <td>1/2 - 2018</td>
+      <td></td>
       <td>12:30 - 15:00</td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=01&type=&language=">#1</a></td>
       <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a></td>
