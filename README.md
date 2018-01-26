@@ -13,7 +13,7 @@
 </head>
 
 
-<img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" />
+<!-- <img src="https://github.com/dat17i/dat17i.github.io/raw/master/logokea.png" id="image" /> -->
 
 # DAT17I - SWC II SPRING 2018 
 
