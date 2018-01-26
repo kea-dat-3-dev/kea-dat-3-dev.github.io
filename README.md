@@ -369,7 +369,6 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         var tds = rows[i].getElementsByTagName("td"); 
         tds[0].innerHTML= dates[i-1].week;
         i++;
-        i++;
      }
 
       var tds = rows[i].getElementsByTagName("td"); 
