@@ -366,7 +366,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
      if(rows[i].getAttribute("class") === 'holliday'){
         //alert(rows[i].getAttribute("class"));
-        i++;
+        i+2;
      }
 
       var tds = rows[i].getElementsByTagName("td"); 
