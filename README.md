@@ -51,14 +51,14 @@
       <td><a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
   </tr>
   
-  <tr style="background-color: #e6fff3">
+  <tr style="background-color: #fae3e3">
       <td></td>
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=04&type=&language=">#4</a></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css (Claus on holliday)</a></td>
   </tr>  
-  <tr style="background-color: #e6fff3">
+  <tr style="background-color: #fae3e3">
       <td></td>
       <td></td>
       <td></td> 
@@ -141,7 +141,7 @@
       <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
   </tr>
   
-  <tr style="background-color:  #f9d2d2" class="holliday">
+  <tr style="background-color:  #fae3e3" class="holliday">
       <td>13</td>
       <td></td>
       <td></td>
@@ -232,7 +232,7 @@
       <td><a href="https://github.com/dat17i/25_agenda/blob/master/README.md">Repetition</a></td>
   </tr>
 
-  <tr style="background-color: #f9d2d2">
+  <tr style="background-color: #fae3e3">
       <td></td>
       <td></td>
       <td></td>
