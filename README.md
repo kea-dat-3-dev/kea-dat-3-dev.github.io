@@ -304,23 +304,57 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
 
 <script> var dates = [
-        {week : 5, date : '5/2'}, 
-        {week : 6, date : '12/2'}, 
-        {week : 7, date : '15/2'}, 
-        {week : 7, date : '18/2'}, 
-        {week : 8, date : '26/2'}, 
-        {week : 9, date : '4/3'}, 
-        {week : 10, date : '11/3'}, 
-        {week : 11, date : '18/3'}, 
-        {week : 12, date : '25/3'}, 
-        {week : 13, date : '1/4'}, 
-        {week : 14, date : '8/4'}, 
-        {week : 15, date : '15/4'}, 
-        {week : 16, date : '22/4'}, 
-        {week : 17, date : '29/4'}, 
-        {week : 18, date : '6/5'}, 
-        {week : 19, date : '13/5'},
-        {week : 20, date : '20/5'}
+        {week : 5, date : '1/2', time : '12:30 - 15:30'}, 
+
+        {week : 6, date : '6/2', time : '08:30 - 11:45'}, 
+        {week : 6, date : '8/2', time : '12:30 - 15:30'}, 
+
+        {week : 7, date : '13/2', time : '08:30 - 11:45'}, 
+        {week : 7, date : '15/2', time : '12:30 - 15:30'}, 
+
+        {week : 8, date : '20/2', time : '08:30 - 11:45'}, 
+        {week : 8, date : '22/2', time : '12:30 - 15:30'},
+
+        {week : 9, date : '27/2', time : '08:30 - 11:45'}, 
+        {week : 9, date : '1/3', time : '12:30 - 15:30'},
+
+        {week : 10, date : '6/3', time : '08:30 - 11:45'}, 
+        {week : 10, date : '8/3', time : '12:30 - 15:30'}, 
+
+        {week : 11, date : '13/3', time : '08:30 - 11:45'}, 
+        {week : 11, date : '15/3', time : '12:30 - 15:30'}, 
+
+        {week : 12, date : '20/3', time : '08:30 - 11:45'}, 
+        {week : 12, date : '22/3', time : '12:30 - 15:30'}, 
+
+        // week 13 Easter
+
+        {week : 14, date : '3/4', time : '08:30 - 11:45'},
+        {week : 14, date : '5/4', time : '12:30 - 15:30'},
+
+        {week : 15, date : '10/4', time : '08:30 - 11:45'},
+        {week : 15, date : '12/4', time : '12:30 - 15:30'},
+
+        {week : 16, date : '17/4', time : '08:30 - 11:45'},
+        {week : 16, date : '19/4', time : '12:30 - 15:30'},
+
+        {week : 17, date : '24/4', time : '08:30 - 11:45'},
+        {week : 17, date : '26/4', time : '12:30 - 15:30'},
+
+        {week : 18, date : '1/5', time : '08:30 - 11:45'},
+        {week : 18, date : '3/5', time : '12:30 - 15:30'},
+
+        {week : 19, date : '8/5', time : '08:30 - 11:45'},
+        {week : 19, date : '10/5', time : ''},
+
+        {week : 20, date : '15/5', time : '08:30 - 11:45'},
+        {week : 20, date : '17/5', time : '12:30 - 15:30'},
+
+        {week : 21, date : '22/5', time : '08:30 - 11:45'},
+        {week : 21, date : '24/5', time : '12:30 - 15:30'},
+
+        {week : 22, date : '29/5', time : '08:30 - 11:45'},
+        {week : 22, date : '30/5', time : '12:30 - 15:30'},
     ]; 
   
  var table = document.getElementById("tbl");  
@@ -328,14 +362,14 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  
  for(i = 1; i < rows.length; i++){
 
-
      if(rows[i].getAttribute("class") === 'holliday'){
         alert(rows[i].getAttribute("class"));
         i++;
      }
-     
+
       var tds = rows[i].getElementsByTagName("td"); 
       tds[0].innerHTML= dates[i-1].week; 
       tds[1].innerHTML= dates[i-1].date + ' - 2018'; 
+      tds[2].innerHTML= dates[i-1].time; 
     } 
  </script>
