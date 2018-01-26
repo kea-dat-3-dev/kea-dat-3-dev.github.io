@@ -10,7 +10,7 @@
         margin-bottom: 10px;
     } */
     
-    #github {text-align: right}
+    #github {text-align: right; margin:-50px 0 50px 0}
   </style>
 </head>
 
