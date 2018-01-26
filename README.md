@@ -2,7 +2,7 @@
   <style> 
     h1:first-of-type {display: none;}
     #github {text-align: right; margin:-50px 0 50px 0}
-    .markdown-body table {display: content}
+    #tbl {display: content}
   </style>
 </head>
 
