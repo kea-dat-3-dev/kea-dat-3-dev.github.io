@@ -285,7 +285,7 @@
       <td><a href="">#31</a></td>
       <td><a href="https://github.com/dat17i/31_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   </tr>    
-  <tr>
+  <tr style="background-color: #fae3e3">
       <td>22</td>
       <td>1/6 - 2018</td>
       <td>12:00</td>
@@ -365,10 +365,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
  for(i = 1; i < rows.length; i++){
 
      if(rows[i].getAttribute("class") === 'holliday'){
-        // var tds = rows[i].getElementsByTagName("td"); 
-        // tds[0].innerHTML= dates[i-1].week;
-        i++;
-        
+        i++;   
      }
 
       var tds = rows[i].getElementsByTagName("td"); 
