@@ -19,8 +19,9 @@
       <th>Week</th>
       <th>Date</th>
       <th>Time</th>
-      <th>Day</th>
+     <!-- <th>Day</th> -->
       <th>Topic</th>
+    <th>Literature</th>
   </tr>
   </thead>
   <tbody>
@@ -29,8 +30,12 @@
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=01&type=&language=">#1</a></td>
-      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and     
+      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and <br>    
         <a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
+    <td><a href="https://github.com/Dat17i/03_agenda">Agenda</a> <br>
+    <a href="https://github.com/Dat17i/03_hello_spring">Hello Spring</a> <br>
+    <a href="https://github.com/Dat17i/03_my_first_website">My First Website</a> <br>
+    <a href="https://github.com/Dat17i/03_create_spring_application">Exercise: Create a Spring Boot application</a></td>
   </tr>
   
   <tr>
