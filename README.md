@@ -40,15 +40,15 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
       <td></td>
+      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
       <td></td>
+      <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
   <td></td>
   </tr>
   
