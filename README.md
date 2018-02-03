@@ -169,7 +169,6 @@
   <tr>
       <td></td>
       <td></td>
-     <td><a href="">#20</a></td>
       <td><a href="https://github.com/dat17i/20_agenda/blob/master/README.md">Normalisering af databasens tabeller</a></td>
   <td></td>
   </tr>
