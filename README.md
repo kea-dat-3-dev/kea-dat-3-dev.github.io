@@ -40,15 +40,15 @@
   <tr>
       <td></td>
       <td></td>
+      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/02_agenda/blob/master/README.md">Fitness Repetition Exercise</a></td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
+      <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
   <td></td>
   </tr>
   
@@ -56,22 +56,22 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css (Claus on holliday)</a></td>
+      <td>(Claus on holliday)</td>
       <td></td>
   </tr>  
   <tr style="background-color: #fae3e3">
       <td></td>
       <td></td>
       <td></td> 
-      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css (Claus on holliday)</a></td>
+      <td>(Claus on holliday)</td>
       <td></td>
   </tr>
 
   <tr>
-            <td></td>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
+      <td></td>
+      <td></td>
   <td></td>
   </tr>
   <tr>
