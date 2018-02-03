@@ -29,7 +29,8 @@
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i?utf8=%E2%9C%93&q=01&type=&language=">#1</a></td>
-      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and <a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
+      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and     
+        <a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
   </tr>
   
   <tr>
