@@ -13,12 +13,14 @@
 
 <div id="github"><a href="https://github.com/dat17i/">GitHub</a></div>
 
+<div id="github">Teachings: <br> Tuesdays: 8:30 - 11:45 <br> Thursdays: 12:30 - 15:00</div>
+
 <table id="tbl">
   <thead>
   <tr>
       <th>Week</th>
       <th>Date</th>
-      <th>Time</th>
+     <!-- <th>Time</th> -->
      <!-- <th>Day</th> -->
       <th>Topic</th>
     <th>Literature</th>
@@ -26,7 +28,7 @@
   </thead>
   <tbody>
   <tr>
-      <td></td>
+ 
       <td></td>
       <td></td>
      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and <br>    
@@ -38,14 +40,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
@@ -53,14 +55,14 @@
   </tr>
   
   <tr style="background-color: #fae3e3">
-      <td></td>
+   
       <td></td>
       <td></td>
       <td>(Claus on holliday)</td>
       <td></td>
   </tr>  
   <tr style="background-color: #fae3e3">
-      <td></td>
+    
       <td></td>
       <td></td> 
       <td>(Claus on holliday)</td>
@@ -68,14 +70,14 @@
   </tr>
 
   <tr>
-      <td></td>
+  
       <td></td>
       <td></td>
       <td></td>
   <td></td>
   </tr>
   <tr>
-           <td></td>
+      
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/06_agenda/blob/master/README.md">CRUD with Controller, View and Model (MVC)</a></td>
@@ -83,14 +85,14 @@
   </tr>
 
   <tr>
-      <td></td>
+ 
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">CRUD with Controller, View and Model</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/08_agenda/blob/master/README.md">Repositories & Interfaces</a></td>
@@ -98,14 +100,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/09_agenda/blob/master/README.md">Repositories & Interfaces II</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/010_agenda/blob/master/README.md">Databases</a></td>
@@ -113,14 +115,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/11_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/12_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot II</a></td>
@@ -128,14 +130,14 @@
   </tr>
 
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><b><a href="https://github.com/dat17i/13_agenda/blob/master/README.md">Mandatory Assignment start</a></b></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+  
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
@@ -145,19 +147,18 @@
   <tr style="background-color:  #fae3e3" class="holliday">
       <td>13</td>
       <td></td>
-      <td></td>
-      <td></td>
       <td>Easter Holliday</td>
+      <td></td>
   </tr>
  
   <tr>
       <td></td>
       <td></td>
       <td><b><a href="https://github.com/dat17i/15_agenda/blob/master/README.md">Mandatory Assignment presentation</a></b></td>
-  <td></td>
+      <td></td>
   </tr>
   <tr>
-      <td></td>
+ 
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/16_agenda/blob/master/README.md">Databases and Unique Values and Primary Keys</a></td>
@@ -165,7 +166,7 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/17_agenda/blob/master/README.md">Databases and relations between tables</a></td>
@@ -174,20 +175,19 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
       <td><a href="https://github.com/dat17i/18_agenda/blob/master/README.md">Databases, Many to many relations and JOINS</a></td>
   <td></td>
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md"></a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
      <td><a href="">#20</a></td>
@@ -196,14 +196,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalisering</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/22_agenda/blob/master/README.md">Java Collection Framework</a></td>
@@ -211,14 +211,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/23_agenda/blob/master/README.md">Linked List & Java Collection Framework</a></td>
   <td></td>
   </tr>
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/24_agenda/blob/master/README.md">Thyme Leaf opfølgning</a></td>
@@ -226,7 +226,7 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/25_agenda/blob/master/README.md">Repetition</a></td>
@@ -234,7 +234,7 @@
   </tr>
 
   <tr style="background-color: #fae3e3">
-      <td></td>
+
       <td></td>
       <td></td>
       <td>Holliday - Ascension Day</td>
@@ -242,7 +242,7 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">Exam Project Start</a></td>
@@ -252,20 +252,19 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
       <td><a href="https://github.com/dat17i/27_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   <td></td>
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/28_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   <td></td>
   </tr> 
   <tr>
-      <td></td>
+ 
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/29_agenda/blob/master/README.md">Eksamenprojekt</a></td>
@@ -273,14 +272,14 @@
   </tr>
   
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/30_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   <td></td>
   </tr> 
   <tr>
-      <td></td>
+
       <td></td>
       <td></td>
       <td><a href="https://github.com/dat17i/31_agenda/blob/master/README.md">Eksamenprojekt</a></td>
@@ -289,7 +288,6 @@
   <tr style="background-color: #fae3e3">
       <td>22</td>
       <td>1/6 - 2018</td>
-      <td>12:00</td>
       <td>Exam Project hand in WiseFlow</td>
       <td></td>
   </tr>
@@ -371,7 +369,6 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
       var tds = rows[i].getElementsByTagName("td"); 
       tds[0].innerHTML= dates[i-1].week; 
-      tds[1].innerHTML= dates[i-1].date + ' - 2018'; 
-      tds[2].innerHTML= dates[i-1].time; 
+      tds[1].innerHTML= dates[i-1].date + ' - 2018';  
     } 
  </script>
