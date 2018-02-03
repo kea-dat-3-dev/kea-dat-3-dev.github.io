@@ -2,6 +2,7 @@
   <style> 
     h1:first-of-type {display: none;}
     #github {text-align: right; margin:-50px 0 50px 0}
+    #teachings {text-align: right; margin: 20px 0 50px 0}
     #tbl {display: inline-table}
     td {vertical-align: top;}
   </style>
@@ -11,7 +12,7 @@
 
 <div id="github"><a href="https://github.com/dat17i/">GitHub</a></div>
 
-<div id="github">Teachings: <br> Tuesdays: 8:30 - 11:45 <br> Thursdays: 12:30 - 15:00</div>
+<div id="teachings">Teachings: <br> Tuesdays: 8:30 - 11:45 <br> Thursdays: 12:30 - 15:00</div>
 
 <table id="tbl">
   <thead>
