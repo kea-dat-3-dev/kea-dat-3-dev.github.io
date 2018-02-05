@@ -41,7 +41,7 @@
       <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">Html & Css</a></td>
       <td><a href="https://github.com/Dat17i/02_agenda">Agenda</a> <br>
         <a href="https://github.com/Dat17i/02_exercise_warmup">Warmup Exercise</a> <br>
-        <a href="https://github.com/Dat17i/02_exercise_1">Exercise 1</a> <br>
+        <a href="https://github.com/Dat17i/02_exercise_2">Exercise 2</a> <br>
         <a href="https://github.com/Dat17i/02_exercise_3">HIT Exercise</a> 
      
   </td>
