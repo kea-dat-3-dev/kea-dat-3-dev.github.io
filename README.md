@@ -50,9 +50,9 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
+      <td><a href="https://github.com/dat17i/003_agenda/blob/master/README.md">Create a Web Page with a List of Students</a></td>
   <td>
-        <a href="https://github.com/Dat17i/003_agendablob/master/README.md">Agenda</a> <br>
+        <a href="https://github.com/Dat17i/003_agenda/blob/master/README.md">Agenda</a> <br>
         <a href="https://github.com/Dat17i/03_tutorial_students_list">Tutorial: Students List</a> <br>
         <a href="05_exercise_create_courses/blob/master/README.md">Exercise: Course List Page</a> <br>
         <a href="http://itutorial.thymeleaf.org/">ThymeLeaf Tutorial (Exercise 1)</a> 
