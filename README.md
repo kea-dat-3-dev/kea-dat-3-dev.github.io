@@ -64,13 +64,13 @@
       <td></td>
       <td></td>
       <td>(Claus on holliday)</td>
-      <td></td>
+      <td><a href="https://github.com/Dat17i/03_exercise_create_courses/blob/master/README.md">Exercise: Course List Page</a></td>
   </tr>  
   <tr style="background-color: #fae3e3">
       <td></td>
       <td></td> 
       <td>(Claus on holliday)</td>
-      <td></td>
+      <td><a href="https://github.com/Dat17i/03_exercise_create_courses/blob/master/README.md">Exercise: Course List Page</a></td>
   </tr>
 
   <tr> 
