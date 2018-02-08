@@ -56,7 +56,7 @@
         <a href="https://github.com/Dat17i/03_tutorial_students_list">Tutorial: Students List</a> <br>
         <a href="https://github.com/Dat17i/03_exercise_create_courses/blob/master/README.md">Exercise: Course List Page</a> <br>
         <a href="http://itutorial.thymeleaf.org/">ThymeLeaf Tutorial (Exercise 1)</a> <br>
-    <a href="">Code from Teachings Today</a>
+    <a href="https://github.com/Dat17i/studentsapplication">Code from Teachings Today</a>
   </td>
   </tr>
   
