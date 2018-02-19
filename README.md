@@ -76,20 +76,20 @@
   <tr> 
       <td></td>
       <td></td>
+      <td><a href="https://github.com/dat17i/04_agenda/blob/master/README.md">CRUD with Controller, View and Model (MVC)</a></td>
       <td></td>
-  <td></td>
   </tr>
   <tr>      
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/06_agenda/blob/master/README.md">CRUD with Controller, View and Model (MVC)</a></td>
-  <td></td>
+      <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">CRUD with Controller, View and Model</a></td>
+      <td></td>
   </tr>
 
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">CRUD with Controller, View and Model</a></td>
+      <td></td>
   <td></td>
   </tr>
   <tr>
