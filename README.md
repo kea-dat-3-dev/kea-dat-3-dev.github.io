@@ -82,7 +82,7 @@
         <a href="https://github.com/dat17i/04_tutorial_create_student">Create Student</a> <br>
         <a href="https://github.com/dat17i/04_tutorial_details_student">Details</a> <br>
         <a href="https://github.com/dat17i/04_tutorial_delete_student/blob/master/README.md">Delete</a> <br>
-        <a href="https://github.com/dat17i/06_dateformating">Dateformat in views and model</a>    
+        <a href="https://github.com/dat17i/06_dateformating">Dateformat in views and model</a>  <br>  
         <a href="https://github.com/Dat17i/studentsapplication/tree/at_20_02_2018">Code from Teachings Today</a><br>
         <a href="https://github.com/dat17i/04_exercise_update_student">Exercise:Create an UPDATE page</a>   
       </td>
