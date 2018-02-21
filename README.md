@@ -89,7 +89,8 @@
   <tr>      
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">CRUD with Controller, View and Model</a></td>
+      <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">CRUD with Controller, View and Model</a> <br> and <br>
+        <a href="https://github.com/dat17i/08_agenda/blob/master/README.md">Repositories & Interfaces</a></td>
       <td>
         <a href="https://github.com/dat17i/04_exercise_update_student">Exercise:Create an UPDATE page</a> <br>
         <a href="https://github.com/dat17i/04_tutorial_delete_student/blob/master/README.md">Delete</a> <br>
