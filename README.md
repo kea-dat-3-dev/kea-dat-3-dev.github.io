@@ -94,6 +94,16 @@
       <td>
         <a href="https://github.com/dat17i/04_exercise_update_student">Exercise:Create an UPDATE page</a> <br>
         <a href="https://github.com/dat17i/04_tutorial_delete_student/blob/master/README.md">Delete</a> <br>
+        <a href="https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html">Wha is Inheritance?</a> <br>
+        <a href="https://docs.oracle.com/javase/tutorial/java/concepts/interface.html">What is an Interface?</a> <br>
+        <a href="http://www.thymeleaf.org/doc/articles/standardurlsyntax.html">Thymeleaf - Standard URL Syntax</a> <br>
+        * **Interfaces and Inheritance** https://docs.oracle.com/javase/tutorial/java/IandI/index.html
+    * **Interfaces** https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html
+        * **Defining an Interface** https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html
+        * **Implementing an Interface** https://docs.oracle.com/javase/tutorial/java/IandI/usinginterface.html
+* **Inheritance** https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+        
+        
       </td>
   </tr>
 
