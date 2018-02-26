@@ -132,14 +132,14 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
       <td><b><a href="https://github.com/dat17i/13_agenda/blob/master/README.md">Mandatory Assignment start</a></b></td>
+      <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td></td>
       <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
+      <td></td>
   </tr>
   
   <tr>
