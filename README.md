@@ -111,52 +111,55 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
-  <td></td>
+      <td>
+        <a href="https://github.com/dat17i/08_agenda/blob/master/README.md">Repositories & Interfaces</a><br>
+        <a href="https://github.com/dat17i/09_agenda/blob/master/README.md">Intro to Databases</a>
+      </td>
+      <td><a href="https://github.com/Dat17i/studentsapplication/tree/at_27_02_2018">Code from Teachings Today</a><br></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/08_agenda/blob/master/README.md">Repositories & Interfaces</a></td>
-  <td></td>
-  </tr>
-  
-  <tr>
       <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/09_agenda/blob/master/README.md">Repositories & Interfaces II</a></td>
-  <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/010_agenda/blob/master/README.md">Databases</a></td>
-  <td></td>
+      <td><b><a href="https://github.com/dat17i/13_agenda/blob/master/README.md">Mandatory Assignment start</a></b></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/11_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot</a></td>
+      <td></td>
+      <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b><a href="https://github.com/dat17i/15_agenda/blob/master/README.md">Mandatory Assignment presentation</a></b></td>
+  </tr>
+  
+  <tr>
+      <td></td>
+      <td></td>
+      <td><!--<a href="https://github.com/dat17i/11_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot</a>--></td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/12_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot II</a></td>
+      <td><!--<a href="https://github.com/dat17i/12_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot II</a>--></td>
   <td></td>
   </tr>
 
   <tr>
       <td></td>
       <td></td>
-      <td><b><a href="https://github.com/dat17i/13_agenda/blob/master/README.md">Mandatory Assignment start</a></b></td>
-  <td></td>
+      <td></td>
+      <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/14_agenda/blob/master/README.md">Mandatory Assignment supervision</a></td>
+      <td></td>
   <td></td>
   </tr>
   
@@ -170,7 +173,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td><b><a href="https://github.com/dat17i/15_agenda/blob/master/README.md">Mandatory Assignment presentation</a></b></td>
+      <td></td>
       <td></td>
   </tr>
   <tr>
