@@ -115,7 +115,10 @@
         <a href="https://github.com/dat17i/05_agenda/blob/master/README.md">Repositories & Interfaces</a><br>
         <a href="https://github.com/dat17i/06_agenda/blob/master/README.md">Intro to Databases</a>
       </td>
-      <td><a href="https://github.com/Dat17i/studentsapplication/tree/at_27_02_2018">Code from Teachings Today</a><br></td>
+      <td>
+        <a href="https://www.gearhost.com/">Database at GearHost</a><br>
+        <a href="https://github.com/Dat17i/studentsapplication/tree/at_27_02_2018">Code from Teachings Today</a><br>
+      </td>
   </tr>
   <tr>
       <td></td>
