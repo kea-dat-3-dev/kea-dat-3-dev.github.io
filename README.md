@@ -101,9 +101,9 @@
         <a href="https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html">Interfaces</a> <br>
         <a href="https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html">Defining an Interface</a> <br>
         <a href="https://docs.oracle.com/javase/tutorial/java/IandI/usinginterface.html">Implementing an Interface</a> <br>
-         <a href="https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html">Inheritance</a> <br>
-        
-        <a href="http://www.thymeleaf.org/doc/articles/standardurlsyntax.html">Thymeleaf - Standard URL Syntax</a> <br> 
+        <a href="https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html">Inheritance</a> <br>
+        <a href="http://www.thymeleaf.org/doc/articles/standardurlsyntax.html">Thymeleaf - Standard URL Syntax</a> <br>   
+        <a href="https://github.com/Dat17i/studentsapplication/tree/at_22_02_2018">Code from Teachings Today</a><br>
         
       </td>
   </tr>
