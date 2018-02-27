@@ -116,7 +116,7 @@
         <a href="https://github.com/dat17i/06_agenda/blob/master/README.md">Intro to Databases</a>
       </td>
       <td>
-        <a href="https://github.com/dat17i/06_agenda/blob/master/README.md">Agenda</a>
+        <a href="https://github.com/dat17i/06_agenda/blob/master/README.md">Agenda</a><br>
         <a href="https://www.gearhost.com/">Database at GearHost</a><br>
         <a href="https://www.w3schools.com/sql/default.asp">SQL</a><br>
         <a href="https://github.com/Dat17i/06_tutorial_mysql_and_spring/blob/master/README.md">Tutorial: MySql and Spring</a><br> 
