@@ -128,6 +128,7 @@
       <td></td>
       <td><a href="https://github.com/dat17i/07_agenda/blob/master/README.md">Databases</a></td>
       <td>
+         <a href="https://www.w3schools.com/sql/default.asp">SQL</a><br>
          <a href="https://github.com/Dat17i/06_tutorial_mysql_and_spring/blob/master/README.md">Tutorial: MySql and Spring</a><br> 
         <a href="https://github.com/Dat17i/06_exercise_mysql_in_studentsapplication/blob/master/README.md">Exercise MySql in Studentsapplication</a><br> 
       </td>
