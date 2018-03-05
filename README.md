@@ -137,8 +137,10 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/Dat17i/08_agenda/blob/master/README.md">SQL</a></td>
+      <td>
+        <a href="https://github.com/Dat17i/08_agenda/blob/master/README.md">Agenda</a> 
+      </td>
   </tr>
   <tr>
       <td></td>
