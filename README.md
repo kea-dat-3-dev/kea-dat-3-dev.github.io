@@ -146,7 +146,7 @@
       <td></td>
       <td></td>
       <td><b><a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment start</a></b></td>
-      <td></td>
+      <td><a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment</a></td>
   </tr>
   
   <tr>
@@ -156,7 +156,7 @@
         <a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment supervision</a>
         
         <!--<a href="https://github.com/dat17i/11_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot</a>--></td>
-  <td></td>
+  <td> <a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment</a></td>
   </tr>
   <tr>
       <td></td>
@@ -164,7 +164,7 @@
       <td>
         <b><a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment presentation</a></b>
         <!--<a href="https://github.com/dat17i/12_agenda/blob/master/README.md">Mysql, JDBC & Spring Boot II</a>--></td>
-  <td></td>
+  <td> <a href="https://github.com/Dat17i/mandatoryassignment">Mandatory Assignment</a></td>
   </tr>
 
   <tr>
