@@ -170,13 +170,13 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Databases</td>
       <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Databases</td>
   <td></td>
   </tr>
   
@@ -190,7 +190,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Databases</td>
       <td></td>
   </tr>
   <tr>
@@ -216,20 +216,20 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md"></a></td>
+      <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md">Normalization</a></td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/20_agenda/blob/master/README.md">Normalisering af databasens tabeller</a></td>
+      <td><a href="https://github.com/dat17i/20_agenda/blob/master/README.md">Normalization</a></td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalisering</a></td>
+      <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalization</a></td>
   <td></td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/24_agenda/blob/master/README.md">Thyme Leaf opfølgning</a></td>
+      <td><a href="https://github.com/dat17i/24_agenda/blob/master/README.md">Singleton & Threads</a></td>
   <td></td>
   </tr>
   
