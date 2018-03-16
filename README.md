@@ -316,7 +316,6 @@
 </table>
             
 \* Changes to this plan can occour. <br>
-\** Der er en uge for meget i denne plan, så der vil være 2 undervisningsgange i løbet af dette semester der vil blive aflyst.
 
 __Teacher: Claus Bové (clbo@kea.dk)__
 
