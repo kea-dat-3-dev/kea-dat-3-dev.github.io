@@ -190,72 +190,72 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Databases</td>
+      <td><a href="https://github.com/Dat17i/09_databases_primary_keys/edit/master/README.md">Databases and Unique Values and Primary Keys</a></td>
       <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/16_agenda/blob/master/README.md">Databases and Unique Values and Primary Keys</a></td>
+      <td>Databases and relations between tables</td>
   <td></td>
   </tr>
   
   <tr>
      <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/17_agenda/blob/master/README.md">Databases and relations between tables</a></td>
+      <td>Databases, Many to many relations and JOINS</td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/18_agenda/blob/master/README.md">Databases, Many to many relations and JOINS</a></td>
-  <td></td>
-  </tr>
-  
-  <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/19_agenda/blob/master/README.md">Normalization</a></td>
-  <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/20_agenda/blob/master/README.md">Normalization</a></td>
+      <td>Normalization</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/21_agenda/blob/master/README.md">Normalization</a></td>
+      <td>Java Collection Framework</td>
+  <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td>Maps & Sets</td>
+  <td></td>
+  </tr>
+  
+  <tr>
+      <td></td>
+      <td></td>
+      <td>Linked List & Java Collection Framework</td>
   <td></td>
   </tr>
   <tr>
      <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/22_agenda/blob/master/README.md">Java Collection Framework</a></td>
+      <td>Generic Datatypes</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/23_agenda/blob/master/README.md">Linked List & Java Collection Framework</a></td>
+      <td>Singleton & Threads</td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/24_agenda/blob/master/README.md">Singleton & Threads</a></td>
+      <td></td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/25_agenda/blob/master/README.md">Repetition</a></td>
+      <td></td>
   <td></td>
   </tr>
 
