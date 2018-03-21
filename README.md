@@ -176,7 +176,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/Dat17i/09_databases_primary_keys/Readme.md">Databases and Unique Values and Primary Keys</a></td>
+      <td><a href="https://github.com/Dat17i/09_databases_primary_keys/README.md">Databases and Unique Values and Primary Keys</a></td>
   <td></td>
   </tr>
   
