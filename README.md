@@ -177,7 +177,10 @@
       <td></td>
       <td></td>
       <td><a href="https://github.com/Dat17i/09_databases_primary_keys/README.md">Databases and Unique Values and Primary Keys</a></td>
-  <td></td>
+  <td>
+    <a href="https://github.com/Dat17i/09_databases_primary_keys/README.md">Agenda</a><br>
+    <a href="https://github.com/Dat17i/09_bank_exercise">Bank Exercise</a><br>
+  </td>
   </tr>
   
   <tr style="background-color:  #fae3e3" class="holliday">
