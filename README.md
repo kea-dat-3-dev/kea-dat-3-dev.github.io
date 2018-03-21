@@ -178,6 +178,7 @@
       <td></td>
       <td><a href="https://github.com/Dat17i/09_databases_primary_keys/README.md">Databases and Unique Values and Primary Keys</a></td>
   <td>
+    <a href="https://www.w3schools.com/sql/default.asp">SQL</a><br>
     <a href="https://github.com/Dat17i/09_databases_primary_keys/README.md">Agenda</a><br>
     <a href="https://github.com/Dat17i/09_bank_exercise">Bank Exercise</a><br>
   </td>
