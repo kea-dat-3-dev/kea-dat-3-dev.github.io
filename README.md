@@ -200,7 +200,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="<a href="https://github.com/Dat17i/10_Relation_between_tables/blob/master/README.md">">Normalization</a></td>
   <td></td>
   </tr>
   
