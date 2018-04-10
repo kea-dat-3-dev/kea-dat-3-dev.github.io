@@ -200,20 +200,27 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/Dat17i/10_Relation_between_tables/blob/master/README.md">">Normalization</a></td>
+      <td><a href="https://github.com/Dat17i/10_Relation_between_tables/blob/master/README.md">Normalization</a></td>
   <td></td>
   </tr>
   
   <tr>
      <td></td>
       <td></td>
-      <td>Databases, Many to many relations and JOINS</td>
+      <td></td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td>Normalization</td>
+      <td></td>
+  <td></td>
+  </tr>
+  
+  <tr>
+      <td></td>
+      <td></td>
+      <td>SQL JOINS</td>
   <td></td>
   </tr>
   
@@ -226,14 +233,14 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Maps & Sets</td>
+      <td>Linked List</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td>Linked List & Java Collection Framework</td>
+      <td>Implementing a Collection Class</td>
   <td></td>
   </tr>
   <tr>
@@ -246,20 +253,13 @@
   <tr>
       <td></td>
       <td></td>
+      <td>Maps & Sets</td>
+  <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
       <td>Singleton & Threads</td>
-  <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  <td></td>
-  </tr>
-  
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
   <td></td>
   </tr>
 
