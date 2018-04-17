@@ -233,14 +233,14 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Linked List</td>
+      <td>Linked List & Implementing a Collection Class</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td>Implementing a Collection Class</td>
+      <td>@Autowire in Spring</td>
   <td></td>
   </tr>
   <tr>
