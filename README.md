@@ -233,14 +233,15 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Linked List & Implementing a Collection Class</td>
+      <td>Exam Assignment handout</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td>@Autowire in Spring</td>
+      <td>Linked List & Implementing a Collection Class
+        @Autowire in Spring</td>
   <td></td>
   </tr>
   <tr>
@@ -311,7 +312,7 @@
   </tr>    
   <tr style="background-color: #fae3e3">
       <td>22</td>
-      <td>1/6 - 2018</td>
+      <td>25/5 - 2018</td>
       <td>Exam Project hand in WiseFlow</td>
       <td></td>
   </tr>
