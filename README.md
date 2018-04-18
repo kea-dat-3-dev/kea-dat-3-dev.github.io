@@ -378,8 +378,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 21, date : '22/5', time : '08:30 - 11:45'},
         {week : 21, date : '24/5', time : '12:30 - 15:30'},
 
-        {week : 22, date : '29/5', time : '08:30 - 11:45'},
-        {week : 22, date : '30/5', time : '12:30 - 15:30'},
+
     ]; 
   
  var table = document.getElementById("tbl");  
