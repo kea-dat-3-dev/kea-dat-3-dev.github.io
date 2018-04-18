@@ -227,7 +227,8 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Java Collection Framework</td>
+      <td>Java Collection Framework,<br>
+  Linked List, <br>Implementing a Collection Class</td>
   <td></td>
   </tr>
   <tr>
@@ -240,8 +241,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Linked List & Implementing a Collection Class
-        @Autowire in Spring</td>
+      <td></td>
   <td></td>
   </tr>
   <tr>
