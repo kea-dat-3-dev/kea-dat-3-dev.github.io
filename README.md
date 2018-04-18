@@ -296,20 +296,7 @@
       <td></td>
       <td><a href="https://github.com/dat17i/29_agenda/blob/master/README.md">Eksamenprojekt</a></td>
   <td></td>
-  </tr>
-  
-  <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/30_agenda/blob/master/README.md">Eksamenprojekt</a></td>
-  <td></td>
   </tr> 
-  <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/dat17i/31_agenda/blob/master/README.md">Eksamenprojekt</a></td>
-  <td></td>
-  </tr>    
   <tr style="background-color: #fae3e3">
       <td>22</td>
       <td>25/5 - 2018</td>
