@@ -260,7 +260,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Exam Project</td>
   <td></td>
   </tr>
 
@@ -274,27 +274,27 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">Exam Project Start</a></td>
+      <td><a href="https://github.com/dat17i/26_agenda/blob/master/README.md">Exam Project</a></td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/27_agenda/blob/master/README.md">Eksamenprojekt</a></td>
+      <td><a href="https://github.com/dat17i/27_agenda/blob/master/README.md">Exam Project</a></td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/28_agenda/blob/master/README.md">Eksamenprojekt</a></td>
+      <td><a href="https://github.com/dat17i/28_agenda/blob/master/README.md">Exam Project</a></td>
   <td></td>
   </tr> 
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/dat17i/29_agenda/blob/master/README.md">Eksamenprojekt</a></td>
+      <td><a href="https://github.com/dat17i/29_agenda/blob/master/README.md">Exam Project</a></td>
   <td></td>
   </tr> 
   <tr style="background-color: #fae3e3">
