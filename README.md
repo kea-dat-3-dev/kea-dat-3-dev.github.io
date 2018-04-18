@@ -241,26 +241,26 @@
   <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td>Generic Datatypes</td>
   <td></td>
   </tr>
   <tr>
      <td></td>
       <td></td>
-      <td>Generic Datatypes</td>
+      <td>Maps & Sets</td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td>Maps & Sets</td>
+      <td>Singleton & Threads</td>
   <td></td>
   </tr>
   <tr>
       <td></td>
       <td></td>
-      <td>Singleton & Threads</td>
+      <td></td>
   <td></td>
   </tr>
 
