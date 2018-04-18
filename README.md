@@ -227,8 +227,8 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Java Collection Framework,<br>
-  Linked List, <br>Implementing a Collection Class</td>
+      <td><a href="">Java Collection Framework,<br>
+        Linked List, <br>Generic Datatypes</a></td>
   <td></td>
   </tr>
   <tr>
@@ -241,7 +241,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Generic Datatypes</td>
+      <td>Implementing a Collection Class</td>
   <td></td>
   </tr>
   <tr>
