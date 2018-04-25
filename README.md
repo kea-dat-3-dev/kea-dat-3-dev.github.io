@@ -241,7 +241,7 @@
   <tr>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/Dat17i/14_singleton_threads">Singleton & Threads</a></td>
+      <td><a href="https://github.com/Dat17i/14_singleton/blob/master/README.md">Singleton</a></td>
   <td></td>
   </tr>
   <tr>
