@@ -241,20 +241,20 @@
   <tr>
       <td></td>
       <td></td>
-      <td>Implementing a Collection Class</td>
+      <td><a href="https://github.com/Dat17i/14_singleton_threads">Singleton & Threads</a></td>
   <td></td>
   </tr>
   <tr>
      <td></td>
       <td></td>
-      <td>Maps & Sets</td>
+      <td></td>
   <td></td>
   </tr>
   
   <tr>
       <td></td>
       <td></td>
-      <td>Singleton & Threads</td>
+      <td></td>
   <td></td>
   </tr>
   <tr>
