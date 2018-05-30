@@ -8,7 +8,7 @@
   </style>
 </head>
 
-# DATxxx - Software Design and Construction 1st semester
+# Software Design and Construction 1st semester
 
 <div id="github"><a href="https://github.com/keadat1st/">GitHub</a></div>
 
