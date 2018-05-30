@@ -8,11 +8,11 @@
   </style>
 </head>
 
-# DAT17I - SWC II SPRING 2018 
+# DATxxx - Software Design and Construction 
 
-<div id="github"><a href="https://github.com/dat17i/">GitHub</a></div>
+<div id="github"><a href="https://github.com/keadat1st/">GitHub</a></div>
 
-<div id="teachings">Teachings: <br> Tuesdays: 8:30 - 11:45 <br> Thursdays: 12:30 - 15:00</div>
+<div id="teachings">Teachings: <br> Monday: 8:30 - 11:45 <br> Tuesday: 12:30 - 15:00 <br> Thursday: 12:30 - 15:00 <br> Friday: 12:30 - 15:00</div>
 
 <table id="tbl">
   <thead>
