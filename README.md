@@ -29,7 +29,7 @@
       <td></td>
       <td>    
         <a href="https://github.com/keadat1st/01_intro_to_Object_Oriented_Analasis_and_Design">Intro to Object Oriented Analasis and Design</a></td>
-      <td></td>
+      <td>Larman kapitel 1</td>
   </tr>
   
   <tr>
