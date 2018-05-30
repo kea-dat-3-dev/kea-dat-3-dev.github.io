@@ -25,7 +25,7 @@
   </thead>
   <tbody>
   <tr>
-      <td></td>
+      <td>Uge 5 29. jan-2. feb</td>
       <td></td>
      <td><a href="https://github.com/dat17i/01_agenda/blob/master/README.md">Introduktion to 2<sup>nd</sup> Semester SWC</a> and <br>    
         <a href="https://github.com/dat17i/03_agenda/blob/master/README.md">Getting started with Spring Boot initializer</a></td>
@@ -310,75 +310,3 @@
 \* Changes to this plan can occour. <br>
 
 __Teacher: Claus Bové (clbo@kea.dk)__
-
-
-<script> var dates = [
-        {week : 5, date : '1/2', time : '12:30 - 15:30'}, 
-
-        {week : 6, date : '6/2', time : '08:30 - 11:45'}, 
-        {week : 6, date : '8/2', time : '12:30 - 15:30'}, 
-
-        {week : 7, date : '13/2', time : '08:30 - 11:45'}, 
-        {week : 7, date : '15/2', time : '12:30 - 15:30'}, 
-
-        {week : 8, date : '20/2', time : '08:30 - 11:45'}, 
-        {week : 8, date : '22/2', time : '12:30 - 15:30'},
-
-        {week : 9, date : '27/2', time : '08:30 - 11:45'}, 
-        {week : 9, date : '1/3', time : '12:30 - 15:30'},
-
-        {week : 10, date : '6/3', time : '08:30 - 11:45'}, 
-        {week : 10, date : '8/3', time : '12:30 - 15:30'}, 
-
-        {week : 11, date : '13/3', time : '08:30 - 11:45'}, 
-        {week : 11, date : '15/3', time : '12:30 - 15:30'}, 
-
-        {week : 12, date : '20/3', time : '08:30 - 11:45'}, 
-        {week : 12, date : '22/3', time : '12:30 - 15:30'}, 
-
-        // week 13 Easter
-        {week : 13, date : '27/3', time : '08:30 - 11:45'},
-       // {week : 13, date : '29/3', time : '12:30 - 15:30'},
-
-        {week : 14, date : '3/4', time : '08:30 - 11:45'},
-        {week : 14, date : '5/4', time : '12:30 - 15:30'},
-
-        {week : 15, date : '10/4', time : '08:30 - 11:45'},
-        {week : 15, date : '12/4', time : '12:30 - 15:30'},
-
-        {week : 16, date : '17/4', time : '08:30 - 11:45'},
-        {week : 16, date : '19/4', time : '12:30 - 15:30'},
-
-        {week : 17, date : '24/4', time : '08:30 - 11:45'},
-        {week : 17, date : '26/4', time : '12:30 - 15:30'},
-
-        {week : 18, date : '1/5', time : '08:30 - 11:45'},
-        {week : 18, date : '3/5', time : '12:30 - 15:30'},
-
-        // 8/5 kristihimmelfartsdag
-        {week : 19, date : '8/5', time : '08:30 - 11:45'},
-        {week : 19, date : '10/5', time : ''},
-
-        {week : 20, date : '15/5', time : '08:30 - 11:45'},
-        {week : 20, date : '17/5', time : '12:30 - 15:30'},
-
-        {week : 21, date : '22/5', time : '08:30 - 11:45'},
-        {week : 21, date : '24/5', time : '12:30 - 15:30'},
-
-
-    ]; 
-  
- var table = document.getElementById("tbl");  
- var rows = table.getElementsByTagName("tr");
- 
- for(i = 1; i < rows.length; i++){
-
-     if(rows[i].getAttribute("class") === 'holliday'){
-        i++;   
-     }
-
-      var tds = rows[i].getElementsByTagName("td"); 
-      tds[0].innerHTML= dates[i-1].week; 
-      tds[1].innerHTML= dates[i-1].date + ' - 2018';  
-    } 
- </script>
