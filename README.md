@@ -35,8 +35,8 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Introduktion til programmering</td>
+      <td>Reges kapitel 1</td>
   </tr>
   
   <tr>
