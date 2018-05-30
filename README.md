@@ -28,9 +28,7 @@
       <td>5</td>
       <td></td>
       <td>    
-        [Intro to Object Oriented Analasis and Design](https://github.com/keadat1st/01_intro_to_Object_Oriented_Analasis_and_Design)    
-    
-      </td>
+        <a href="https://github.com/keadat1st/01_intro_to_Object_Oriented_Analasis_and_Design">Intro to Object Oriented Analasis and Design</a></td>
       <td></td>
   </tr>
   
