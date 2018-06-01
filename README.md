@@ -12,7 +12,7 @@
 
 <div id="github"><a href="https://github.com/keadat1st/">GitHub</a></div>
 
-<div id="teachings">Teachings: <br> Monday: 8:30 - 11:45 <br> Tuesday: 12:30 - 15:00 <br> Thursday: 12:30 - 15:00 <br> Friday: 12:30 - 15:00</div>
+<div id="teachings">Teachings: <br> Monday: xx:xx - xx:xx <br> Tuesday: xx:xx - xx:xx <br> Thursday: xx:xx - xx:xx <br> Friday: xx:xx - xx:xx</div>
 
 <table id="tbl">
   <thead>
