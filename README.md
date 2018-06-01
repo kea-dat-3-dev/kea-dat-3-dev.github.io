@@ -42,8 +42,13 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        Modulopgave: Little Animal Horror Zoo<br>
+        Kravindsamling, strukturering og Use Cases
+      </td>
+      <td>
+        Larman kapitel 6
+      </td>
   </tr>
   
   <tr>
