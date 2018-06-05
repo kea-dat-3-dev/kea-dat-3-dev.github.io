@@ -61,8 +61,8 @@
   <tr>
       <td>6</td>
       <td></td>
-      <td></td>
-      <td></td>
+  <td><a href="https://github.com/keadat1st/05_domain_model">Domain Model</a></td>
+      <td>Larman kapitel 9</td>
   </tr>  
   
   <tr>
