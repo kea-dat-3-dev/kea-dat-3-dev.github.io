@@ -116,7 +116,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td>Git & GitHub … og hvordan i afleverer jeres opgave</td>
       <td></td>
   </tr>
   
