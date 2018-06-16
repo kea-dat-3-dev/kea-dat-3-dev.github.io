@@ -103,13 +103,13 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+      <td>Klassediagram</td>
       <td></td>
   </tr>
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+      <td>Klassediagram</td>
       <td></td>
   </tr>
   
