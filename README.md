@@ -76,7 +76,7 @@
       <td>6</td>
       <td></td>
   <td><a href="https://github.com/keadat1st/07_domain_model_exercises">Domain Model Exercises</a></td>
-      <td></td>
+      <td>Larman kapitel 6 & 9</td>
   </tr>
   
   <tr>      
@@ -90,7 +90,7 @@
       <td>7</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/09_domain_model_exercises">Domain Model Exercises</a></td>
-      <td></td>
+      <td>Larman kapitel 6 & 9</td>
   </tr>
   
   <tr>
