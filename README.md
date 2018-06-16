@@ -116,7 +116,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td>Git & GitHub … og hvordan i afleverer jeres opgave</td>
+      <td><a href="https://github.com/keadat1st/15_git_github">Git & GitHub … og hvordan i afleverer jeres opgave</a></td>
       <td></td>
   </tr>
   
