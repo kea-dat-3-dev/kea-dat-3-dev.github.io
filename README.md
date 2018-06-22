@@ -123,7 +123,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
 
@@ -137,42 +137,42 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td>SWC - Little Animal Horror Zoo</td>
       <td></td>
   </tr>
   
   <tr>
       <td>9</td>
       <td></td>
-      <td></td>
+      <td>Swd - Little Animal Horror Zoo</td>
       <td></td>
   </tr>
  
   <tr>
       <td>9</td>
       <td></td>
-      <td></td>
+      <td>Modul 1 -  Little Animal Horror Zoo<br>Fremlæggelse i klassen</td>
       <td></td>
   </tr>
   <tr>
       <td>9</td>
       <td></td>
-      <td></td>
+      <td>Modul 1 -  Little Animal Horror Zoo<br>Fremlæggelse i klassen</td>
       <td></td>
   </tr>
   
   <tr>
      <td>9</td>
       <td></td>
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
   
   <tr>
       <td>10</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Modul 2 - Car Wash</td>
+      <td><a href="https://docs.google.com/document/d/e/2PACX-1vTaq88kCAyWz5M12eHSc0U3tWu3HsKC2JG8ap2u6DZSr3_1pwtm_WeZszjedLM7HYxLaoiMtJB_s4cx/pub">Modulopgave Car Wash</a></td>
   </tr>
   
   <tr>
