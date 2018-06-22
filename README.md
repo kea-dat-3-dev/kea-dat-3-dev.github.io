@@ -54,7 +54,7 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
   
@@ -68,7 +68,7 @@
   <tr>
       <td>6</td>
       <td></td> 
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
 
@@ -82,7 +82,7 @@
   <tr>      
       <td>6</td>
       <td></td>
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
 
@@ -96,27 +96,27 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+      <td>SWC</td>
       <td></td>
   </tr>
   
   <tr>
       <td>7</td>
       <td></td>
-      <td>Klassediagram</td>
+      <td><a href="https://github.com/keadat1st/11_KlasseDiagram">Klassediagram I</a></td>
       <td></td>
   </tr>
   <tr>
       <td>7</td>
       <td></td>
-      <td>Klassediagram</td>
+      <td>SWC</td>
       <td></td>
   </tr>
   
   <tr>
       <td>8</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/15_git_github">Git & GitHub … og hvordan i afleverer jeres opgave</a></td>
+      <td><a href="https://github.com/keadat1st/13_KlasseDiagram">Klassediagram II</a></td>
       <td></td>
   </tr>
   
@@ -130,7 +130,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/15_git_github">Git & GitHub … og hvordan i afleverer jeres opgave</a></td>
       <td></td>
   </tr>
   
