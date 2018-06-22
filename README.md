@@ -151,13 +151,13 @@
   <tr>
       <td>9</td>
       <td></td>
-      <td>**Modul 1 -  Little Animal Horror Zoo<br>Grupper Fremlæggelse i klassen**</td>
+      <td>**Modul 1 -  Little Animal Horror Zoo**<br>**Grupper Fremlæggelse i klassen**</td>
       <td></td>
   </tr>
   <tr>
       <td>9</td>
       <td></td>
-      <td>**Modul 1 -  Little Animal Horror Zoo<br>Grupper Fremlæggelse i klassen**</td>
+      <td>**Modul 1 -  Little Animal Horror Zoo**<br>**Grupper Fremlæggelse i klassen**</td>
       <td></td>
   </tr>
   
