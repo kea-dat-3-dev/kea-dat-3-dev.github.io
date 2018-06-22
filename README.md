@@ -43,7 +43,7 @@
       <td>5</td>
       <td></td>
       <td>
-        Modulopgave: Little Animal Horror Zoo<br>
+        **Modulopgave: Little Animal Horror Zoo**<br>
         Kravindsamling, strukturering og Use Cases
       </td>
       <td>
@@ -151,13 +151,13 @@
   <tr>
       <td>9</td>
       <td></td>
-      <td>Modul 1 -  Little Animal Horror Zoo<br>**Grupper Fremlæggelse i klassen**</td>
+      <td>**Modul 1 -  Little Animal Horror Zoo<br>Grupper Fremlæggelse i klassen**</td>
       <td></td>
   </tr>
   <tr>
       <td>9</td>
       <td></td>
-      <td>Modul 1 -  Little Animal Horror Zoo<br>**Grupper Fremlæggelse i klassen**</td>
+      <td>**Modul 1 -  Little Animal Horror Zoo<br>Grupper Fremlæggelse i klassen**</td>
       <td></td>
   </tr>
   
