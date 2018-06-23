@@ -344,7 +344,7 @@
       <td></td>
   </tr>
   
-    <tr>
+    <tr style="background-color: #afd0e0">
       <td>12</td>
       <td></td>
       <td><b>Fremlæggelse: Modul 3 - Movie Application (del 1)</b><br>
@@ -352,11 +352,132 @@
       <td></td>
   </tr>
   
-    <tr>
+    <tr style="background-color: #afd0e0">
       <td>12</td>
       <td></td>
       <td><b>Fremlæggelse: Modul 3 - Movie Application (del 2)</b><br>
       Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
+      <td></td>
+  </tr>
+  
+      <tr>
+      <td>13</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+      <tr>
+      <td>13</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+      <tr>
+      <td>13</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+      <tr>
+      <td>13</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+      <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+        <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+        <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+        <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+        <tr>
+      <td>15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+          <tr>
+      <td>15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+          <tr>
+      <td>15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+          <tr>
+      <td>15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+          <tr>
+      <td>16</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+            <tr>
+      <td>16</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+            <tr>
+      <td>16</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+            <tr>
+      <td>16</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+            <tr>
+      <td>17</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+              <tr>
+      <td>17</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+              <tr>
+      <td>17</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+              <tr>
+      <td>17</td>
+      <td></td>
+      <td></td>
       <td></td>
   </tr>
   
