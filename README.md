@@ -148,14 +148,14 @@
       <td></td>
   </tr>
  
-  <tr style="background-color: green">
+  <tr style="background-color: #66d18b">
       <td>9</td>
       <td></td>
       <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
         Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
-  <tr>
+  <tr style="background-color: #66d18b">
       <td>9</td>
       <td></td>
       <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
