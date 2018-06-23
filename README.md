@@ -151,15 +151,15 @@
   <tr>
       <td>9</td>
       <td></td>
-      <td><b>Modul 1 -  Little Animal Horror Zoo
-        <br>Grupper Fremlæggelse i klassen</b></td>
+      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
+        Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
   <tr>
       <td>9</td>
       <td></td>
-      <td><b>Modul 1 -  Little Animal Horror Zoo
-        <br>Grupper Fremlæggelse i klassen</b></td>
+      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
+        Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
   
