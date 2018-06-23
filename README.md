@@ -170,11 +170,18 @@
       <td></td>
   </tr>
   
-  <tr style="background-color: #ddcec9">
+  <tr style="background-color: #e7f73d">
       <td>10</td>
       <td></td>
-  <td><b>Modul 2 - Car Wash</b></td>
-      <td><a href="https://github.com/keadat1st/CarWashManagementSystem">Modulopgave Car Wash</a></td>
+  <td><b>Modul 2 - Car Wash</b><br>
+    <b>Defining requirements:</b><br>
+    FURPS+, Functional, Non-functional
+  </td>
+      <td>
+        <a href="https://github.com/keadat1st/CarWashManagementSystem">Modulopgave Car Wash</a>
+        <a href="https://github.com/keadat1st/21_gathering_requirements">Agenda</a>
+        Larman chp 5
+      </td>
   </tr>
   
   <tr>
@@ -252,14 +259,14 @@
       <td></td>
       <td></td>
   </tr> 
-  <tr style="background-color: #ddcec9">
+  <tr style="background-color: #e7f73d">
       <td>13</td>
       <td></td>
       <td></td>
       <td></td>
   </tr> 
   
-  <tr style="background-color: #ddcec9">
+  <tr style="background-color: #e7f73d">
       <td>13</td>
       <td></td>
       <td></td>
