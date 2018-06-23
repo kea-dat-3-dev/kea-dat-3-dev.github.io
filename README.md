@@ -104,7 +104,7 @@
       <td>7</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/11_KlasseDiagram">Klassediagram I</a></td>
-      <td></td>
+      <td>Larman kapitel 16</td>
   </tr>
   <tr>
       <td>7</td>
@@ -117,7 +117,7 @@
       <td>8</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/13_KlasseDiagram">Klassediagram II</a></td>
-      <td></td>
+      <td>Larman kapitel 16</td>
   </tr>
   
   <tr>
