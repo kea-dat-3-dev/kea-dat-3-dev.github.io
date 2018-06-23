@@ -174,7 +174,7 @@
       <td>10</td>
       <td></td>
   <td><b>Modul 2 - Car Wash</b></td>
-      <td><a href="https://docs.google.com/document/d/e/2PACX-1vTaq88kCAyWz5M12eHSc0U3tWu3HsKC2JG8ap2u6DZSr3_1pwtm_WeZszjedLM7HYxLaoiMtJB_s4cx/pub">Modulopgave Car Wash</a></td>
+      <td><a href="https://github.com/keadat1st/CarWashManagementSystem">Modulopgave Car Wash</a></td>
   </tr>
   
   <tr>
