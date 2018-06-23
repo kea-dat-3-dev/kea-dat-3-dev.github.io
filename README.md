@@ -39,7 +39,7 @@
       <td>Reges kapitel 1</td>
   </tr>
   
-  <tr>
+  <tr style="background-color: #80b793">
       <td>5</td>
       <td></td>
       <td>
@@ -170,7 +170,7 @@
       <td></td>
   </tr>
   
-  <tr>
+  <tr style="background-color: #c69a1f">
       <td>10</td>
       <td></td>
   <td><b>Modul 2 - Car Wash</b></td>
@@ -252,14 +252,14 @@
       <td></td>
       <td></td>
   </tr> 
-  <tr>
+  <tr style="background-color: #c69a1f">
       <td>13</td>
       <td></td>
       <td></td>
       <td></td>
   </tr> 
   
-  <tr>
+  <tr style="background-color: #c69a1f">
       <td>13</td>
       <td></td>
       <td></td>
