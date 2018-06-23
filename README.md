@@ -148,7 +148,7 @@
       <td></td>
   </tr>
  
-  <tr background-color="#00ff00">
+  <tr style="background-color: green">
       <td>9</td>
       <td></td>
       <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
