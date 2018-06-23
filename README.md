@@ -360,10 +360,10 @@
       <td></td>
   </tr>
   
-      <tr>
+  <tr style="background-color: #5da09e">
       <td>13</td>
       <td></td>
-      <td></td>
+      <td><b>Modul 4 - Semesterprojekt start</b></td>
       <td></td>
   </tr>
       <tr>
@@ -456,30 +456,19 @@
       <td></td>
       <td></td>
   </tr>
-            <tr>
+  <tr style="background-color: #5da09e">
       <td>17</td>
       <td></td>
-      <td></td>
+  <td><b>1.Semesters Prøve Eksamen</b></td>
       <td></td>
   </tr>
-              <tr>
+  <tr style="background-color: #5da09e">
       <td>17</td>
       <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-              <tr>
-      <td>17</td>
-      <td></td>
-      <td></td>
+      <td><b>1.Semesters Prøve Eksamen</b></td>
       <td></td>
   </tr>
-              <tr>
-      <td>17</td>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
+              
   
   </tbody>
 </table>
