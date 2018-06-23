@@ -151,14 +151,14 @@
   <tr style="background-color: #80b793">
       <td>5</td>
       <td></td>
-      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
+      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo (del 1)</b><br>
         Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
   <tr style="background-color: #80b793">
       <td>6</td>
       <td></td>
-      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo</b><br>
+      <td><b>Fremlæggelse:Modul 1 -  Little Animal Horror Zoo  (del 2)</b><br>
         Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
@@ -262,7 +262,7 @@
   <tr style="background-color: #e7f73d">
       <td>9</td>
       <td></td>
-  <td><b>Fremlæggelse:Modul 2 - Car Wash</b><br>
+  <td><b>Fremlæggelse:Modul 2 - Car Wash  (del 1)</b><br>
           Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr> 
@@ -270,7 +270,7 @@
   <tr style="background-color: #e7f73d">
       <td>9</td>
       <td></td>
-      <td><b>Fremlæggelse:Modul 2 - Car Wash</b><br>
+      <td><b>Fremlæggelse:Modul 2 - Car Wash  (del 2)</b><br>
           Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
