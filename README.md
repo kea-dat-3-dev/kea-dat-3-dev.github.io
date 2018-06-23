@@ -173,8 +173,8 @@
   <tr style="background-color: #e7f73d">
       <td>6</td>
       <td></td>
-  <td><b>Modul 2 - Car Wash</b><br>
-    <b>Defining requirements:</b><br>
+  <td><b>Modul 2 - Car Wash</b><br><br>
+    And: <b>Defining requirements:</b><br>
     FURPS+, Functional, Non-functional
   </td>
       <td>
@@ -262,14 +262,16 @@
   <tr style="background-color: #e7f73d">
       <td>9</td>
       <td></td>
-      <td></td>
+  <td><b>Fremlæggelse:Modul 2 - Car Wash</b><br>
+          Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr> 
   
   <tr style="background-color: #e7f73d">
       <td>9</td>
       <td></td>
-      <td></td>
+      <td><b>Fremlæggelse:Modul 2 - Car Wash</b><br>
+          Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr>
   
