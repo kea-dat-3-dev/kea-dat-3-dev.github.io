@@ -170,7 +170,7 @@
       <td></td>
   </tr>
   
-  <tr style="background-color: #c69a1f">
+  <tr style="background-color: #ddcec9">
       <td>10</td>
       <td></td>
   <td><b>Modul 2 - Car Wash</b></td>
@@ -252,14 +252,14 @@
       <td></td>
       <td></td>
   </tr> 
-  <tr style="background-color: #c69a1f">
+  <tr style="background-color: #ddcec9">
       <td>13</td>
       <td></td>
       <td></td>
       <td></td>
   </tr> 
   
-  <tr style="background-color: #c69a1f">
+  <tr style="background-color: #ddcec9">
       <td>13</td>
       <td></td>
       <td></td>
