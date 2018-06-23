@@ -178,8 +178,8 @@
     FURPS+, Functional, Non-functional
   </td>
       <td>
-        <a href="https://github.com/keadat1st/CarWashManagementSystem">Modulopgave Car Wash</a>
-        <a href="https://github.com/keadat1st/21_gathering_requirements">Agenda</a>
+        <a href="https://github.com/keadat1st/CarWashManagementSystem">Modulopgave Car Wash</a><br>
+        <a href="https://github.com/keadat1st/21_gathering_requirements">Agenda</a><br>
         Larman chp 5
       </td>
   </tr>
