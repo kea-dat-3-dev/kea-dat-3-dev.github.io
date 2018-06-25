@@ -194,7 +194,7 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+  <td><a href="https://github.com/keadat1st/23_kanban_board">Kanban</a></td>
       <td></td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+  <td><a href="https://github.com/keadat1st/25_multiplicity_usecaseDiagrammer">Use Case Diagram, Multiplicity</a></td>
       <td></td>
   </tr>
   
