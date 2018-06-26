@@ -124,7 +124,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/14_animal_horror_zoo"></a>Opsamling og Animal Horror Zoo-opgave</td>
+      <td><a href="https://github.com/keadat1st/14_animal_horror_zoo"></a>Opsamling og Animal Horror Zoo-opgave</td>
       <td></td>
   </tr>
 
@@ -138,7 +138,7 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td>a href=""></a>SWC - Little Animal Horror Zoo-opgave</td>
+      <td>SWC - Little Animal Horror Zoo-opgave</td>
       <td></td>
   </tr>
   
@@ -167,7 +167,7 @@
   <tr>
      <td>6</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/18_while_getters">Getters & While loops & Math class</a></td>
+      <td><a href="https://github.com/keadat1st/18_while_getters">Getters & While loops & Math class</a></td>
       <td>Reges 5 + 3.2</td>
   </tr>
   
@@ -188,34 +188,34 @@
   <tr>
       <td>6</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/20_Input_og_loops">Input med Scanner objektet og while loop</a></td>
+      <td><a href="https://github.com/keadat1st/20_Input_og_loops">Input med Scanner objektet og while loop</a></td>
       <td>Reges 3.3</td>
   </tr>
   
   <tr>
       <td>7</td>
       <td></td>
-  <td><a href="https://github.com/keadat1st/23_kanban_board">Kanban</a></td>
+      <td><a href="https://github.com/keadat1st/23_kanban_board">Kanban</a></td>
       <td></td>
   </tr>
   <tr>
       <td>7</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/22_arrays"></a>Arrays</td>
+      <td><a href="https://github.com/keadat1st/22_arrays"></a>Arrays</td>
       <td>Reges 7.1</td>
   </tr>
   
   <tr>
       <td>7</td>
       <td></td>
-  <td><a href="https://github.com/keadat1st/25_multiplicity_usecaseDiagrammer">Use Case Diagram, Multiplicity</a></td>
+      <td><a href="https://github.com/keadat1st/25_multiplicity_usecaseDiagrammer">Use Case Diagram, Multiplicity</a></td>
       <td></td>
   </tr>
   
   <tr>
      <td>7</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/24_arrays_objects">Arrays i metodekald</a></td>
+      <td><a href="https://github.com/keadat1st/24_arrays_objects">Arrays i metodekald</a></td>
       <td>Reges 7.2</td>
   </tr>
   
@@ -229,7 +229,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/26_Opsamling_format_print">Multiplicitet i kode & Formatteret print</a></td>
+      <td><a href="https://github.com/keadat1st/26_Opsamling_format_print">Multiplicitet i kode & Formatteret print</a></td>
       <td>Reges 4.3 + 5.1</td>
   </tr>
 
@@ -243,14 +243,14 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td>Car Wash-opgave</a></td>
+      <td>Car Wash-opgave</td>
       <td></td>
   </tr>
   
   <tr>
       <td>9</td>
       <td></td>
-  <td><a href="https://github.com/keadat1st/31_Car_Wash_project/blob/master/README.md">Car Wash Project</a></td>
+      <td><a href="https://github.com/keadat1st/31_Car_Wash_project/blob/master/README.md">Car Wash Project</a></td>
       <td></td>
   </tr>
   
@@ -263,7 +263,7 @@
   <tr style="background-color: #e7f73d">
       <td>9</td>
       <td></td>
-  <td><b>Fremlæggelse:Modul 2 - Car Wash  (del 1)</b><br>
+      <td><b>Fremlæggelse:Modul 2 - Car Wash  (del 1)</b><br>
           Grupper Fremlægger i klassen med feedback fra 2 undervisere</td>
       <td></td>
   </tr> 
@@ -294,7 +294,7 @@
     <tr>
       <td>10</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
@@ -308,7 +308,7 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
@@ -322,7 +322,7 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
@@ -336,7 +336,7 @@
     <tr>
       <td>12</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
@@ -372,7 +372,7 @@
       <tr>
       <td>13</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
       <tr>
@@ -384,7 +384,7 @@
       <tr>
       <td>13</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
       <tr>
@@ -396,7 +396,7 @@
         <tr>
       <td>14</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
         <tr>
@@ -408,7 +408,7 @@
         <tr>
       <td>14</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
         <tr>
@@ -420,7 +420,7 @@
           <tr>
       <td>15</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   <tr>
@@ -432,7 +432,7 @@
   <tr>
       <td>15</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
  
