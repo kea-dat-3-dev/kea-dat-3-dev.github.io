@@ -223,7 +223,7 @@
       <td>8</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/27_Use_Cases_alternative_flows">Use Cases - Alternative Flows</a></td>
-      <td></td>
+      <td>Larman 6</td>
   </tr>
   
   <tr>
@@ -237,7 +237,7 @@
       <td>8</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/29_SSD">SSD - System Sequence Diagram</a></td>
-      <td></td>
+      <td>Larman </td>
   </tr>
   
   <tr>
