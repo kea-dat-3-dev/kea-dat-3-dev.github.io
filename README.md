@@ -209,7 +209,7 @@
       <td>7</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/25_multiplicity_usecaseDiagrammer">Use Case Diagram, Multiplicity</a></td>
-      <td>Larman 6.13 & 11</td>
+      <td>Larman 6.17 & 11</td>
   </tr>
   
   <tr>
@@ -237,7 +237,7 @@
       <td>8</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/29_SSD">SSD - System Sequence Diagram</a></td>
-      <td>Larman </td>
+      <td>Larman 10 </td>
   </tr>
   
   <tr>
@@ -303,7 +303,7 @@
       <td>10</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/38_Composition_Aggregation">Composition & Aggregation</a></td>
-      <td></td>
+      <td>Larman 30.10-30.11</td>
   </tr>
   
     <tr>
@@ -317,7 +317,7 @@
       <td>11</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/40_sd">Sequence Diagram</a></td>
-      <td></td>
+      <td>Larman 15</td>
   </tr>
   
     <tr>
@@ -331,7 +331,7 @@
       <td>11</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/42_sd">Sequence Diagram</a></td>
-      <td></td>
+      <td>Larman 15</td>
   </tr>
   
     <tr>
