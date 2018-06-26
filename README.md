@@ -373,8 +373,8 @@
       <tr>
       <td>13</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="https://github.com/dat18v2/39_Interfaces_Files">Nedarvning, Interfaces og filer - serializable</a></td>
+      <td>Reges 9</td>
   </tr>
       <tr>
       <td>13</td>
