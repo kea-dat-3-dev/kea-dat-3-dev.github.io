@@ -279,7 +279,7 @@
   <tr style="background-color: #afd0e0">
       <td>10</td>
       <td></td>
-      <td>Modulopgave: Movie Application</td>
+      <td><a href="https://github.com/keadat1st/35_Movie_Application/blob/master/README.md">Modulopgave: Movie Application</a></td>
       <td></td>
   </tr>
   
