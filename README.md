@@ -76,14 +76,14 @@
   <tr> 
       <td>3</td>
       <td></td>
-  <td><a href="https://github.com/keadat1st/07_domain_model_exercises">Domain Model Exercises</a></td>
+      <td><a href="https://github.com/keadat1st/07_domain_model_exercises">Domain Model Exercises</a></td>
       <td>Larman kapitel 6 & 9</td>
   </tr>
   
   <tr>      
       <td>3</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/08_constructor_og_set_method">Scope, setters, constructors</a></td>
+      <td><a href="https://github.com/keadat1st/08_constructor_og_set_method">Scope, setters, constructors</a></td>
       <td></td>
   </tr>
 
@@ -97,7 +97,7 @@
   <tr>
       <td>3</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/10_set-metode-og-if"></a></td>
+      <td><a href="https://github.com/keadat1st/10_set-metode-og-if"></a></td>
       <td>Reges 4.1</td>
   </tr>
   
@@ -110,7 +110,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>a href="https://github.com/keadat1st/12_if_else_if_else">if/elseif øvelse og Animal Horror Zoo-opgave</a></td>
+      <td><a href="https://github.com/keadat1st/12_if_else_if_else">if/elseif øvelse og Animal Horror Zoo-opgave</a></td>
       <td></td>
   </tr>
   
