@@ -280,7 +280,8 @@
   <tr style="background-color: #afd0e0">
       <td>10</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/35_Movie_Application/blob/master/README.md">Modulopgave: Movie Application</a></td>
+      <td><a href="https://github.com/keadat1st/35_Movie_Application/blob/master/README.md">Modulopgave: Movie Application</a><br>
+      <a href="https://github.com/keadat1st/28_Movie_Application">Movie Application opsamling</a></td>
       <td></td>
   </tr>
   
@@ -294,8 +295,8 @@
     <tr>
       <td>10</td>
       <td></td>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/29_Files">Filer - læsning</a></td>
+      <td>Reges 6 til p. 441</td>
   </tr>
   
     <tr>
@@ -308,8 +309,8 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/31_Files_Write">Filer - skrivning</a></td>
+      <td>Reges 6 fra p. 441</td>
   </tr>
   
     <tr>
@@ -322,8 +323,8 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/33_ArrayLists">Array Lists</a></td>
+      <td>Reges 10.1</td>
   </tr>
   
     <tr>
@@ -336,8 +337,8 @@
     <tr>
       <td>12</td>
       <td></td>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/35_Inheritance_Interfaces">Interfaces og nedarvning</a></td>
+      <td>Reges 9</td>
   </tr>
   
     <tr>
