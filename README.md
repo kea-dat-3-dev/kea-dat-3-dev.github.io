@@ -314,7 +314,7 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/40_sd">Sequence Diagram</a></td>
       <td></td>
   </tr>
   
