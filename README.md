@@ -35,7 +35,8 @@
   <tr>
       <td>1</td>
       <td></td>
-      <td>Introduktion til programmering</td>
+      <td>
+        <a href="https://github.com/keadat1st/02_introduktion_til_programmering">Introduktion til programmering</a></td>
       <td>Reges kapitel 1</td>
   </tr>
   
@@ -54,8 +55,8 @@
   <tr>
       <td>2</td>
       <td></td>
-      <td>SWC</td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/04_Classes_and_Objects>Klasser, attributter og Objekter</a></td>
+      <td>Reges kapitel 8.1 + 8.2</td>
   </tr>
   
   <tr>
@@ -68,7 +69,7 @@
   <tr>
       <td>2</td>
       <td></td> 
-      <td>SWC</td>
+  <td><a href=""></a></td>
       <td></td>
   </tr>
 
@@ -82,7 +83,7 @@
   <tr>      
       <td>3</td>
       <td></td>
-      <td>SWC</td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
 
@@ -96,7 +97,7 @@
   <tr>
       <td>3</td>
       <td></td>
-      <td>SWC</td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -109,7 +110,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>SWC</td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -123,7 +124,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>SWC</td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
 
@@ -137,7 +138,7 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td>SWC - Little Animal Horror Zoo</td>
+      <td>a href=""></a>SWC - Little Animal Horror Zoo</td>
       <td></td>
   </tr>
   
@@ -166,7 +167,7 @@
   <tr>
      <td>6</td>
       <td></td>
-      <td>SWC</td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -187,7 +188,7 @@
   <tr>
       <td>6</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -200,7 +201,7 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -214,7 +215,7 @@
   <tr>
      <td>7</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -228,7 +229,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
 
@@ -242,7 +243,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -256,7 +257,7 @@
   <tr>
       <td>9</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr> 
   <tr style="background-color: #e7f73d">
@@ -293,7 +294,7 @@
     <tr>
       <td>10</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -307,7 +308,7 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -321,7 +322,7 @@
     <tr>
       <td>11</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -335,7 +336,7 @@
     <tr>
       <td>12</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   
@@ -371,7 +372,7 @@
       <tr>
       <td>13</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
       <tr>
@@ -383,7 +384,7 @@
       <tr>
       <td>13</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
       <tr>
@@ -395,7 +396,7 @@
         <tr>
       <td>14</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
         <tr>
@@ -407,7 +408,7 @@
         <tr>
       <td>14</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
         <tr>
@@ -419,7 +420,7 @@
           <tr>
       <td>15</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
   <tr>
@@ -431,7 +432,7 @@
   <tr>
       <td>15</td>
       <td></td>
-      <td></td>
+      <td>a href=""></a></td>
       <td></td>
   </tr>
  
