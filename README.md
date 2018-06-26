@@ -235,7 +235,7 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td></td>
+  <td><a href="https://github.com/keadat1st/29_SSD">SSD - System Sequence Diagram</a></td>
       <td></td>
   </tr>
   
