@@ -445,31 +445,19 @@
       <td></td>
       <td></td>
       <td></td>
-  </tr>
-            <tr>
-      <td>16</td>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-            <tr>
-      <td>16</td>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
   <tr style="background-color: #5da09e">
-      <td>17</td>
+      <td>16</td>
       <td></td>
   <td><b>1.Semesters Prøve Eksamen</b></td>
       <td></td>
   </tr>
   <tr style="background-color: #5da09e">
-      <td>17</td>
+      <td>16</td>
       <td></td>
       <td><b>1.Semesters Prøve Eksamen</b></td>
       <td></td>
   </tr>
+
               
   
   </tbody>
