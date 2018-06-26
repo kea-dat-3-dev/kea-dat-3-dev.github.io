@@ -300,7 +300,7 @@
     <tr>
       <td>10</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/36_followupCarWash/blob/master/README.md">Composition & Aggregation</a></td>
+      <td><a href="https://github.com/keadat1st/38_Composition_Aggregation">Composition & Aggregation</a></td>
       <td></td>
   </tr>
   
