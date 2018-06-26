@@ -55,7 +55,7 @@
   <tr>
       <td>2</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/04_Classes_and_Objects>Klasser, attributter og Objekter</a></td>
+      <td><a href="https://github.com/keadat1st/04_Classes_and_Objects">Klasser, attributter og Objekter</a></td>
       <td>Reges kapitel 8.1 + 8.2</td>
   </tr>
   
@@ -69,8 +69,8 @@
   <tr>
       <td>2</td>
       <td></td> 
-  <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/keadat1st/06_metoder">Metoder</a></td>
+      <td>Reges 8.1 + 8.2</td>
   </tr>
 
   <tr> 
@@ -83,7 +83,7 @@
   <tr>      
       <td>3</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td>a href="https://github.com/keadat1st/08_constructor_og_set_method">Scope, setters, constructors</a></td>
       <td></td>
   </tr>
 
@@ -97,8 +97,8 @@
   <tr>
       <td>3</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/10_set-metode-og-if"></a></td>
+      <td>Reges 4.1</td>
   </tr>
   
   <tr>
@@ -110,7 +110,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td>a href="https://github.com/keadat1st/12_if_else_if_else">if/elseif øvelse og Animal Horror Zoo-opgave</a></td>
       <td></td>
   </tr>
   
@@ -124,7 +124,7 @@
   <tr>
       <td>4</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td>a href="https://github.com/keadat1st/14_animal_horror_zoo"></a>Opsamling og Animal Horror Zoo-opgave</td>
       <td></td>
   </tr>
 
@@ -138,7 +138,7 @@
   <tr>
       <td>5</td>
       <td></td>
-      <td>a href=""></a>SWC - Little Animal Horror Zoo</td>
+      <td>a href=""></a>SWC - Little Animal Horror Zoo-opgave</td>
       <td></td>
   </tr>
   
@@ -167,8 +167,8 @@
   <tr>
      <td>6</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/18_while_getters">Getters & While loops & Math class</a></td>
+      <td>Reges 5 + 3.2</td>
   </tr>
   
   <tr style="background-color: #e7f73d">
@@ -188,8 +188,8 @@
   <tr>
       <td>6</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/20_Input_og_loops">Input med Scanner objektet og while loop</a></td>
+      <td>Reges 3.3</td>
   </tr>
   
   <tr>
@@ -201,8 +201,8 @@
   <tr>
       <td>7</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/22_arrays"></a>Arrays</td>
+      <td>Reges 7.1</td>
   </tr>
   
   <tr>
@@ -215,8 +215,8 @@
   <tr>
      <td>7</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/24_arrays_objects">Arrays i metodekald</a></td>
+      <td>Reges 7.2</td>
   </tr>
   
   <tr>
@@ -229,21 +229,21 @@
   <tr>
       <td>8</td>
       <td></td>
-      <td>a href=""></a></td>
-      <td></td>
+      <td>a href="https://github.com/keadat1st/26_Opsamling_format_print">Multiplicitet i kode & Formatteret print</a></td>
+      <td>Reges 4.3 + 5.1</td>
   </tr>
 
   <tr>
       <td>8</td>
       <td></td>
-  <td><a href="https://github.com/keadat1st/29_SSD">SSD - System Sequence Diagram</a></td>
+      <td><a href="https://github.com/keadat1st/29_SSD">SSD - System Sequence Diagram</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>8</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td>Car Wash-opgave</a></td>
       <td></td>
   </tr>
   
@@ -257,7 +257,7 @@
   <tr>
       <td>9</td>
       <td></td>
-      <td>a href=""></a></td>
+      <td>Car Wash-opgave</td>
       <td></td>
   </tr> 
   <tr style="background-color: #e7f73d">
