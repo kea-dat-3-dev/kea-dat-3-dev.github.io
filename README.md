@@ -281,7 +281,7 @@
       <td>10</td>
       <td></td>
       <td><a href="https://github.com/keadat1st/35_Movie_Application/blob/master/README.md">Modulopgave: Movie Application</a><br>
-      <a href="https://github.com/keadat1st/28_Movie_Application">Movie Application opsamling</a></td>
+      <a href="https://github.com/keadat1st/28_Movie_Application">SWK Car Wash opsamling - Movie Application intro</a></td>
       <td></td>
   </tr>
   
