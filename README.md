@@ -97,7 +97,7 @@
   <tr>
       <td>3</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/10_set-metode-og-if"></a></td>
+      <td><a href="https://github.com/keadat1st/10_set-metode-og-if">if statements</a></td>
       <td>Reges 4.1</td>
   </tr>
   
