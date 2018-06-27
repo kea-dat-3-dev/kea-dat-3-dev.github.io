@@ -44,8 +44,8 @@
       <td>2</td>
       <td></td>
       <td>
-        <b>Modulopgave: Little Animal Horror Zoo</b><br>
-        Kravindsamling, strukturering og Use Cases
+        <b><a href="https://github.com/keadat1st/little_animal_horror_zoo/blob/master/README.md">Modulopgave: Little Animal Horror Zoo</a></b><br>
+        <a href="">Kravindsamling, strukturering og Use Cases</a>
       </td>
       <td>
         Larman kapitel 6
