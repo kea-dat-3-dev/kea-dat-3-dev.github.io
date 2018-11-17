@@ -1,5 +1,6 @@
 <head>
   <style> 
+    
     /*h1:first-of-type {display: none;}*/
     #github {text-align: right; margin:-50px 0 50px 0}
     #teachings {text-align: right; margin: -30px 0 10px 0}
