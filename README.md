@@ -13,7 +13,10 @@
 
 <div id="github"><a href="https://github.com/python-elective/">GitHub</a></div>
 
-<div id="teachings">Teachings: <br> Monday: 09:15 - 14:00</div>
+<div id="teachings">
+  Teachings: <br> Monday: 09:15 - 14:00<br>
+  Teacher: Claus Bové (clbo@kea.dk)
+</div>
 
 <table id="tbl">
   <thead>
