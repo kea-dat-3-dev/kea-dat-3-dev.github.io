@@ -47,7 +47,7 @@
       <td><a href="">#3</a></td>
       <td>3</td>
       <td>
-        <a href=""></a>
+        <a href="">GUI development with TKinter</a>
       </td>
       <td></td>
   </tr>
@@ -65,7 +65,7 @@
       <td><a href="">#5</a></td>
       <td></td>
       <td>
-        <a href=""></a>
+        <a href="">Webdevelopment with Django</a>
       </td>
       <td></td>
   </tr>  
@@ -83,7 +83,7 @@
       <td><a href="">#7</a></td>
       <td></td>
       <td>
-        <a href=""></a>
+        <a href="">Deployment at Heroku</a>
       </td>
       <td></td>
   </tr>
@@ -92,7 +92,7 @@
       <td><a href="">#8</a></td>
       <td></td>
       <td>
-        <a href=""></a>
+        <a href="">Fuctional programming</a>
       </td>
       <td></td>
   </tr>
