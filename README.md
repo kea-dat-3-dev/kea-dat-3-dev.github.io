@@ -165,13 +165,7 @@
       <td><a href=""></a></td>
       <td></td>
   </tr>
-  
-  <tr>
-      <td><a href="">#17</a></td>
-      <td></td>
-      <td><a href=""></a></td>
-      <td></td>
-  </tr>
+
   </tbody>
 </table>
             
