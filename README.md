@@ -15,7 +15,6 @@
 
 <div id="teachings">
   Teachings: <br> Monday: 09:15 - 14:00<br>
-  Teacher: Claus Bové (clbo@kea.dk)
 </div>
 
 <table id="tbl">
