@@ -28,11 +28,11 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="">#1</a></td>
+    <td><a href="https://github.com/python-elective-development/01_">#1</a></td>
       <td>1</td>
       <td>    
         <a href="">Introduction to Python Elective</a></td>
-      <td><a href="">Agenda</a></td>
+      <td><a href="https://github.com/python-elective-development/01_intro/blob/master/README.md">Agenda</a></td>
   </tr>
   
   <tr>
