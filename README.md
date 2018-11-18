@@ -21,43 +21,38 @@
       <th>Week</th>
       <th>Date</th>
       <th>Topic</th>
-    <th>Literature</th>
+    <th>Notes</th>
   </tr>
   </thead>
   <tbody>
   <tr>
-      <td>1</td>
       <td></td>
+      <td>1</td>
       <td>    
         <a href="https://github.com/keadat1st/01_intro_to_Object_Oriented_Analasis_and_Design">Intro to Python Elective</a></td>
       <td></td>
   </tr>
   
   <tr>
-      <td>1</td>
       <td></td>
+      <td>2</td>
       <td>
         <a href="https://github.com/keadat1st/02_introduktion_til_programmering">Introduktion til programmering</a></td>
-      <td>Reges kapitel 1</td>
+      <td></td>
   </tr>
   
   <tr style="background-color: #80b793">
-      <td>2</td>
       <td></td>
-      <td>
-        <b><a href="https://github.com/keadat1st/little_animal_horror_zoo/blob/master/README.md">Modulopgave: Little Animal Horror Zoo</a></b><br>
-        <a href="">Kravindsamling, strukturering og Use Cases</a>
-      </td>
-      <td>
-        Larman kapitel 6
-      </td>
+      <td>3</td>
+      <td></td>
+      <td></td>
   </tr>
   
   <tr>
-      <td>2</td>
       <td></td>
-      <td><a href="https://github.com/keadat1st/04_Classes_and_Objects">Klasser, attributter og Objekter</a></td>
-      <td>Reges kapitel 8.1 + 8.2</td>
+      <td>4</td>
+      <td></td>
+      <td></td>
   </tr>
   
   <tr>
