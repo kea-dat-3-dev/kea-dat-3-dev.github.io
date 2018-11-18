@@ -9,11 +9,11 @@
   </style>
 </head>
 
-# Software Design and Construction 1st semester
+# Python Elective Kea spring 2019
 
-<div id="github"><a href="https://github.com/keadat1st/">GitHub</a></div>
+<div id="github"><a href="https://github.com/python-elective/">GitHub</a></div>
 
-<div id="teachings">Teachings: <br> Monday: xx:xx - xx:xx <br> Tuesday: xx:xx - xx:xx <br> Thursday: xx:xx - xx:xx <br> Friday: xx:xx - xx:xx</div>
+<div id="teachings">Teachings: <br> Monday: 09:15 - 14:00</div>
 
 <table id="tbl">
   <thead>
