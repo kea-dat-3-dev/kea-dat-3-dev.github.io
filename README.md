@@ -28,7 +28,7 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="https://github.com/python-elective-development/01_">#1</a></td>
+    <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=01">#1</a></td>
       <td>1</td>
       <td>    
         <a href="">Introduction to Python Elective</a></td>
