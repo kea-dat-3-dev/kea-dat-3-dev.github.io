@@ -74,7 +74,7 @@
       <td><a href="">#6</a></td>
       <td></td> 
       <td>
-        <a href=""></a>
+        <a href="">Rest API</a>
       </td>
       <td></td>
   </tr>
@@ -83,7 +83,7 @@
       <td><a href="">#7</a></td>
       <td></td>
       <td>
-        <a href="">Deployment at Heroku</a>
+        <a href="">Frontend Development</a>
       </td>
       <td></td>
   </tr>
@@ -92,7 +92,7 @@
       <td><a href="">#8</a></td>
       <td></td>
       <td>
-        <a href="">Fuctional programming</a>
+        <a href="">Deployment at Heroku</a>
       </td>
       <td></td>
   </tr>
@@ -110,7 +110,7 @@
       <td><a href="">#10</a></td>
       <td></td>
       <td>
-        <a href=""></a>
+        <a href="">Fuctional programming</a>
       </td>
       <td></td>
   </tr>
