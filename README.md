@@ -31,8 +31,8 @@
     <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=day1">#1</a></td>
       <td>1</td>
       <td>    
-        <a href="">Introduction to Python Elective</a></td>
-      <td><a href="https://github.com/python-elective-development/day1_intro">Agenda</a></td>
+        <a href="https://github.com/python-elective-development/day1_intro">Introduction to Python Elective</a></td>
+      <td></td>
   </tr>
   
   <tr>
