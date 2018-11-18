@@ -36,7 +36,7 @@
   </tr>
   
   <tr>
-      <td><a href="">#2</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=02">#2</a></td>
       <td>2</td>
       <td>
         <a href=""></a></td>
@@ -44,7 +44,7 @@
   </tr>
   
   <tr style="background-color: #80b793">
-      <td><a href="">#3</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=03">#3</a></td>
       <td>3</td>
       <td>
         <a href="">GUI development with TKinter</a>
@@ -53,7 +53,7 @@
   </tr>
   
   <tr>
-      <td><a href="">#4</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=04">#4</a></td>
       <td>4</td>
       <td>
          <a href=""></a>
@@ -62,7 +62,7 @@
   </tr>
   
   <tr>
-      <td><a href="">#5</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=05">#5</a></td>
       <td></td>
       <td>
         <a href="">Webdevelopment with Django</a>
@@ -71,7 +71,7 @@
   </tr>  
   
   <tr>
-      <td><a href="">#6</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=06">#6</a></td>
       <td></td> 
       <td>
         <a href="">Rest API</a>
@@ -80,7 +80,7 @@
   </tr>
 
   <tr> 
-      <td><a href="">#7</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=07">#7</a></td>
       <td></td>
       <td>
         <a href="">Frontend Development</a>
@@ -89,7 +89,7 @@
   </tr>
   
   <tr>      
-      <td><a href="">#8</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=08">#8</a></td>
       <td></td>
       <td>
         <a href="">Deployment at Heroku</a>
@@ -98,7 +98,7 @@
   </tr>
 
   <tr>
-      <td><a href="">#9</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=09">#9</a></td>
       <td></td>
       <td>
         <a href=""></a>
@@ -107,7 +107,7 @@
   </tr>
   
   <tr>
-      <td><a href="">#10</a></td>
+      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=10">#10</a></td>
       <td></td>
       <td>
         <a href="">Fuctional programming</a>
