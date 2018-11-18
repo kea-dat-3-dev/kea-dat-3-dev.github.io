@@ -33,7 +33,7 @@
       <td>1</td>
       <td>    
         <a href="">Introduction to Python Elective</a></td>
-      <td></td>
+      <td><a href="">Agenda</a></td>
   </tr>
   
   <tr>
