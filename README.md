@@ -31,12 +31,12 @@
     <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=day1">#1</a></td>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-development/day1_intro">Introduction to Python Elective</a></td>
+        <a href="">Introduction</a></td>
       <td></td>
   </tr>
   
   <tr>
-      <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=day2">#2</a></td>
+      <td><a href="">#2</a></td>
       <td>2</td>
       <td>
         <a href=""></a></td>
@@ -47,7 +47,7 @@
       <td><a href="https://github.com/python-elective-development?utf8=%E2%9C%93&q=day3">#3</a></td>
       <td>3</td>
       <td>
-        <a href="">GUI development with TKinter</a>
+        <a href=""></a>
       </td>
       <td></td>
   </tr>
