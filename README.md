@@ -9,7 +9,7 @@
   </style>
 </head>
 
-# Python Elective Kea spring 2019
+# 3. semester SWC forår 2019
 
 <div id="github"><a href="https://github.com/python-elective/">GitHub</a></div>
 
